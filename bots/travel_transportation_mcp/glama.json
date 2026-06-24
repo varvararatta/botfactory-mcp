@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "MCP server for Travel & Transportation"
+  "description": "Unlock a world of travel opportunities with our Travel & Transportation MCP. Use our powerful tools to search for transport options, retrieve detailed travel data, and list available items effortlessly. Perfect for travel agencies, app developers, and anyone looking to enhance their journey planning. Built with zero authentication, you can start integrating our services immediately. Enjoy rate limiting and circuit breakers for a smooth experience."
 }
