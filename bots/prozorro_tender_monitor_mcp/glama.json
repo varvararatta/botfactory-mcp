@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "MCP server for prozorro_tender_monitor_mcp"
+  "description": "Unlock the power of the Prozorro API to monitor Ukrainian public procurement tenders effortlessly. Use our 'search_tenders' tool to find specific tenders by keyword, or retrieve detailed information on any tender with 'get_tender'. Ideal for businesses, contractors, and procurement professionals seeking to make informed decisions. Stay updated with recent modifications using 'get_recent_tenders' and navigate the competitive landscape with confidence."
 }
