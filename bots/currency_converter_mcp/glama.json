@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "MCP server for currency_converter_mcp"
+  "description": "Unlock seamless currency conversion with our live ECB/Frankfurter API. Ideal for developers, businesses, and travelers, this tool allows you to convert amounts between currencies in real-time. With built-in rate limiting and caching, experience efficient operations while managing costs. Whether you\u2019re building an app or planning a trip, our service ensures you always have access to the latest rates at your fingertips."
 }
