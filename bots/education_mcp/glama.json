@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "MCP server for Education"
+  "description": "Discover the perfect courses with our advanced search_courses tool, designed for agents seeking to enhance educational offerings. Build structured learning paths using get_learning_path, ensuring learners have a clear path to mastery on any topic. Ideal for educators, training coordinators, and lifelong learners, this MCP server transforms the way you engage with education. Start your journey today at our free health_check endpoint to ensure seamless access."
 }
