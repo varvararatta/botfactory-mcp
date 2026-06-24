@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "MCP server for public_holidays_mcp"
+  "description": "Unlock the knowledge of public holidays across 100+ countries with our reliable Public Holidays API powered by nager.at. Ideal for businesses planning international operations, developers integrating holiday data into applications, or anyone needing to keep track of global observances. Enjoy seamless access with zero authentication, rate limiting, and built-in caching for optimal performance. Whether you're scheduling campaigns or managing travel plans, this API has you covered."
 }
