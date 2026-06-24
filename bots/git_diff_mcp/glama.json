@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "MCP server for git_diff_mcp"
+  "description": "The Smart Git Diff Analyzer provides developers and teams with a powerful tool to scrutinize git diffs and GitHub pull requests. Using our public API, you can easily analyze changes, assess risks, and gather essential stats on your codebase. This tool is perfect for CI/CD pipelines, code review processes, or for any developer seeking clarity in their git history. With zero authentication required, it\u2019s simple to integrate into your workflow and start making data-driven decisions today."
 }
