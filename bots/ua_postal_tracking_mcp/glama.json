@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "MCP server for ua_postal_tracking_mcp"
+  "description": "Stay updated on your shipments with our Ukrainian postal tracking tool for Nova Poshta. Use the track_shipment API to get live status updates, including delivery dates and locations. Perfect for businesses and individuals alike, this service helps you manage your shipments effectively. Whether you're a seller needing to inform customers or a buyer tracking your order, our API delivers precise information at a minimal cost. Experience seamless tracking with zero authentication required."
 }
