@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "Dive into the world of security with our MCP server designed for seamless data retrieval. Use tools like 'search_security' and 'get_security_data' to access critical information and protect your assets. Whether you're a security analyst, IT professional, or a developer, our platform empowers you to make informed decisions with real-time data. With a simple zero-auth setup, accessing vital security metrics has never been easier."
+  "description": "With our Security MCP, you can access a wealth of open-source vulnerability data with ease. Use the free health check tool to ensure your projects are secure and pinpoint issues using OSV.dev across npm, PyPI, and more. Ideal for developers, security analysts, and teams who prioritize safety in their applications. Leverage our API for real-time insights and maintain a robust security posture without the hassle of authentication."
 }
