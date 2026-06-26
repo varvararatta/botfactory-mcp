@@ -1,0 +1,7 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "varvararatta"
+  ],
+  "description": "Unlock the power of real-time financial data with our Finance MCP. Easily retrieve the latest foreign exchange rates and cryptocurrency prices without any authentication hassle. Whether you're a trader, developer, or finance enthusiast, our APIs like get_exchange_rates and get_crypto_price make it simple to integrate accurate financial information into your applications. Stay ahead of market trends and make informed decisions with our reliable data services."
+}
