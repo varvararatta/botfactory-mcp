@@ -1,0 +1,7 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "varvararatta"
+  ],
+  "description": "Text Intelligence delivers robust NLP capabilities without the hassle of authentication or external APIs. Use it to detect languages, analyze sentiments, extract keywords, and summarize texts with ease. Perfect for developers, researchers, and content creators, this server streamlines your text analysis workflow, providing reliable insights and enhancing productivity. Get started with zero-cost health checks and affordable API calls."
+}
