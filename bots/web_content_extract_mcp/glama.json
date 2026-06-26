@@ -1,0 +1,7 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "varvararatta"
+  ],
+  "description": "Web Content Extract Mcp connects AI agents to real public APIs via MCP. Tools include fetch_url_content, extract_article, get_page_links, get_page_metadata. Pay-per-call from $0.003 USDC; health_check is free for discovery. Hosted on MCPize with zero API keys required."
+}
