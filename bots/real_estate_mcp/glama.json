@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "Discover the power of real estate location intelligence with our server. Use the 'search_locations' API to find addresses and places for your market research, or geocode properties accurately with 'geocode_address'. Gain valuable insights into market conditions using 'get_market_context' for any country, essential for investors, agents, and developers. Perfect for making informed decisions in a competitive real estate landscape."
+  "description": "Discover the power of location intelligence in real estate with our APIs. Use 'search_locations' to research properties, 'geocode_address' for precise coordinates, and 'get_market_context' to analyze market trends by country. Ideal for real estate agents, investors, and market analysts, this server provides vital insights to make informed decisions. With zero authentication, dive into detailed data effortlessly."
 }
