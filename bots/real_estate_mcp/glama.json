@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "Discover the future of real estate with our autonomous service designed specifically for agents. Use our powerful APIs to search properties, get market statistics, and estimate property values with ease. Whether you're a seasoned agent or just starting, our tools will enhance your decision-making and boost your productivity. Experience seamless access to essential data and empower your real estate strategies today."
+  "description": "Discover the power of real estate location intelligence with our server. Use the 'search_locations' API to find addresses and places for your market research, or geocode properties accurately with 'geocode_address'. Gain valuable insights into market conditions using 'get_market_context' for any country, essential for investors, agents, and developers. Perfect for making informed decisions in a competitive real estate landscape."
 }
