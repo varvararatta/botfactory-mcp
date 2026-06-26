@@ -1,0 +1,7 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "varvararatta"
+  ],
+  "description": "Htmlpdf Transform Mcp connects AI agents to real public APIs via MCP. Tools include html_to_markdown, html_to_text, extract_tables_from_html, json_to_markdown_table. Pay-per-call from $0.002 USDC; health_check is free for discovery. Hosted on MCPize with zero API keys required."
+}
