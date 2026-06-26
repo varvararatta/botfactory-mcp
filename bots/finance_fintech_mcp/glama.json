@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "Unlock the power of real-time financial data with our Finance MCP. Easily retrieve the latest foreign exchange rates and cryptocurrency prices without any authentication hassle. Whether you're a trader, developer, or finance enthusiast, our APIs like get_exchange_rates and get_crypto_price make it simple to integrate accurate financial information into your applications. Stay ahead of market trends and make informed decisions with our reliable data services."
+  "description": "Stay ahead in the financial game with our Finance MCP. Effortlessly get live exchange rates from Frankfurter and spot prices for cryptocurrencies via CoinGecko, all without authentication. Whether you're a trader, a developer, or a finance enthusiast, our APIs provide the data you need to make informed decisions. Convert currencies or check crypto prices on-the-fly, ensuring you're always updated with the latest market trends."
 }
