@@ -1,0 +1,7 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "varvararatta"
+  ],
+  "description": "Transform your data analysis with our Data Compute & Stats Bot. Effortlessly calculate descriptive statistics, internal rates of return, and net present value for your investment scenarios. Need unit conversions or current exchange rates? We've got you covered! Ideal for data analysts, finance professionals, and anyone looking to streamline calculations without the hassle of authentication."
+}
