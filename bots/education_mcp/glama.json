@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "Unlock endless learning opportunities with the Education MCP! Seamlessly search Wikipedia for articles or explore Open Library's vast collection of books. Ideal for students, teachers, and lifelong learners, this server provides instant access to reliable information and educational materials. With zero authentication required, you can start exploring right away! Transform your research process and enrich your knowledge base with just a few clicks."
+  "description": "Knowledge Access Hub combines Wikipedia and Open Library in one MCP for AI agents and learners. Search encyclopedia articles in 300+ languages, pull structured article summaries, discover textbooks via Open Library, or call build_reading_list to get a curated mix of articles and books for any topic \u2014 all without API keys. Unlike generic search bots, this server returns clean snippets, canonical URLs, and book metadata (author, year, OLID) ready for citations and reading lists. Ideal for tutoring agents, homework helpers, curriculum builders, and research copilots."
 }
