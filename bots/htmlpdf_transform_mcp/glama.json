@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "Htmlpdf Transform Mcp connects AI agents to real public APIs via MCP. Tools include html_to_markdown, html_to_text, extract_tables_from_html, json_to_markdown_table. Pay-per-call from $0.002 USDC; health_check is free for discovery. Hosted on MCPize with zero API keys required."
+  "description": "Unlock the power of clean, structured text with our HTML to Markdown transformation tools. Whether you need to convert web content to Markdown for documentation, strip tags for plain text usage, or extract tables for data analysis, this server has you covered. Ideal for developers, content creators, and analysts who demand precision without the hassle of complex APIs. Enjoy seamless, fast transformations with zero authentication required!"
 }
