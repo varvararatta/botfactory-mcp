@@ -1,0 +1,7 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "varvararatta"
+  ],
+  "description": "Dive into the world of npm with our NPM Package Info MCP. Access crucial metadata about any npm package, including its latest version, description, and homepage\u2014all without authentication. Perfect for developers and teams looking to streamline their workflow by automating package insights. Whether you're searching for a specific package or exploring new libraries, this tool puts essential npm information at your fingertips."
+}
