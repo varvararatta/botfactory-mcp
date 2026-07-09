@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "Public Data Ukraine Mcp connects AI agents to real public APIs via MCP. Tools include get_exchange_rates, search_prozorro_tenders, geocode_ukraine, get_weather_ukraine. Pay-per-call from $0.003 USDC; health_check is free for discovery. Hosted on MCPize with zero API keys required."
+  "description": "Unlock real-time insights into Ukraine's economy and public services with our comprehensive data APIs. Get official NBU exchange rates, explore public procurement tenders on Prozorro, and geocode Ukrainian addresses effortlessly. Whether you're a business analyst, researcher, or developer, this server equips you with essential tools to make informed decisions and enhance your projects. Dive into the rich landscape of Ukrainian public data today!"
 }
