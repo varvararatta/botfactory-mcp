@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "With our Security MCP, you can access a wealth of open-source vulnerability data with ease. Use the free health check tool to ensure your projects are secure and pinpoint issues using OSV.dev across npm, PyPI, and more. Ideal for developers, security analysts, and teams who prioritize safety in their applications. Leverage our API for real-time insights and maintain a robust security posture without the hassle of authentication."
+  "description": "With security_mcp, developers can easily identify vulnerabilities in their applications using the OSV.dev database. Whether you're working with npm, PyPI, or Go, our open-source vulnerability lookup tool streamlines the security assessment process. Perfect for security analysts and developers alike, this service empowers teams to maintain robust security hygiene without breaking the bank. Plus, start with a free health check to ensure everything's running smoothly."
 }
