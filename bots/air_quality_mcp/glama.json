@@ -1,0 +1,7 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "varvararatta"
+  ],
+  "description": "Stay ahead of pollution with our Air Quality MCP. Access real-time air quality data, including European AQI and PM2.5/PM10 levels, using simple coordinates. Need city-specific data? Our geocoding tool lets you search any city for instant air quality insights. Perfect for health-conscious individuals, environmental researchers, and urban planners. With zero authentication required, you can start monitoring air quality immediately!"
+}
