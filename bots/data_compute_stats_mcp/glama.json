@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "Transform your data analysis with our Data Compute & Stats Bot. Effortlessly calculate descriptive statistics, internal rates of return, and net present value for your investment scenarios. Need unit conversions or current exchange rates? We've got you covered! Ideal for data analysts, finance professionals, and anyone looking to streamline calculations without the hassle of authentication."
+  "description": "Dive into a suite of pure Python tools designed for precise mathematical computations and insightful statistics. From calculating IRR and NPV for financial projects to converting units seamlessly, this MCP server caters to your analytical needs. Whether you're a data analyst, financial expert, or student, you\u2019ll find reliable results for your calculations without any authentication barriers. Access live currency exchange rates directly from the National Bank of Ukraine to stay updated!"
 }
