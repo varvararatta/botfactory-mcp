@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "Transform your code review process with Git Diff Analyzer. This powerful tool analyzes git diffs and GitHub PRs, delivering essential statistics, changed files, and risk levels without the hassle of authentication. Perfect for developers, project managers, and QA teams, it allows you to swiftly identify potential issues and streamline collaboration. Access the public API and enhance your workflow today!"
+  "description": "With Git Diff Analyzer, analyzing git diffs and GitHub pull requests has never been easier. Use our public API to get instant insights into code changes, identify risks, and streamline your review process. Perfect for developers, project managers, and teams looking to maintain code quality. With a simple $0.003 per analysis, you can optimize your version control workflow effortlessly."
 }
