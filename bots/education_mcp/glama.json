@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "Knowledge Access Hub combines Wikipedia and Open Library in one MCP for AI agents and learners. Search encyclopedia articles in 300+ languages, pull structured article summaries, discover textbooks via Open Library, or call build_reading_list to get a curated mix of articles and books for any topic \u2014 all without API keys. Unlike generic search bots, this server returns clean snippets, canonical URLs, and book metadata (author, year, OLID) ready for citations and reading lists. Ideal for tutoring agents, homework helpers, curriculum builders, and research copilots."
+  "description": "Dive deep into educational topics through comprehensive resources from Wikipedia and Open Library. Whether you're a student seeking quick info or a lifelong learner wanting structured reading lists, our dual-source research MCP simplifies your search. With zero authentication required, you can instantly access summaries, articles, and books, allowing you to enhance your knowledge and understanding on a variety of subjects. Perfect for educators, students, and curious minds alike!"
 }
