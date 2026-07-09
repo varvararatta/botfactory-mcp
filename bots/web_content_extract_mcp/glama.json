@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "Web Content Extract Mcp connects AI agents to real public APIs via MCP. Tools include fetch_url_content, extract_article, get_page_links, get_page_metadata. Pay-per-call from $0.003 USDC; health_check is free for discovery. Hosted on MCPize with zero API keys required."
+  "description": "Unlock the power of web content extraction with our Web Content Extractor. Perfect for content creators, researchers, and marketers, this tool fetches clean text, metadata, and links from any public URL. Use the fetch_url_content API for extracting main text, or dive deeper with the extract_article feature for news and blog content. With a simple, pay-per-use model, you'll have access to valuable insights from the web, all while saving time and enhancing your projects."
 }
