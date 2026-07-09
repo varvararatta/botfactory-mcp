@@ -1,0 +1,7 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "varvararatta"
+  ],
+  "description": "Unlock the power of real-time cryptocurrency data with our Crypto Price Insights MCP server. Easily fetch current prices for top coins like Bitcoin and Ethereum in multiple currencies such as USD, EUR, and UAH. Stay ahead in the market by accessing trending coins on CoinGecko, perfect for traders and enthusiasts alike. This server is ideal for developers looking to integrate crypto data into their applications without the hassle of authentication. Enjoy a seamless experience and make informed decisions today!"
+}
