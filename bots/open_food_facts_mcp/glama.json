@@ -1,0 +1,7 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "varvararatta"
+  ],
+  "description": "Unlock the power of food transparency with our Open Food Facts MCP server. Easily look up any food product by its barcode and receive vital information like name, brands, and nutri-score. Perfect for developers, health enthusiasts, and anyone curious about what they consume. With zero authentication needed, integration into your applications is seamless and straightforward. Whether you're building health apps or just want to know what\u2019s in your pantry, this tool is for you."
+}
