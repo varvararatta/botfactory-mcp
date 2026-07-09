@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "Unlock the power of the Prozorro API to monitor Ukrainian public procurement tenders effortlessly. Use our 'search_tenders' tool to find specific tenders by keyword, or retrieve detailed information on any tender with 'get_tender'. Ideal for businesses, contractors, and procurement professionals seeking to make informed decisions. Stay updated with recent modifications using 'get_recent_tenders' and navigate the competitive landscape with confidence."
+  "description": "Stay ahead in the competitive landscape of Ukrainian public procurement with our Prozorro Tender Monitor. Effortlessly search for tenders using keywords, access detailed tender information, and keep track of recent modifications. Ideal for businesses, contractors, and consultants looking to secure lucrative government contracts. Leverage our APIs and gain a strategic advantage in navigating the Prozorro system."
 }
