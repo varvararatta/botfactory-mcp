@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "Discover the power of location intelligence in real estate with our APIs. Use 'search_locations' to research properties, 'geocode_address' for precise coordinates, and 'get_market_context' to analyze market trends by country. Ideal for real estate agents, investors, and market analysts, this server provides vital insights to make informed decisions. With zero authentication, dive into detailed data effortlessly."
+  "description": "Dive into the world of real estate with our powerful location intelligence tools. Use OpenStreetMap Nominatim to effortlessly search for property addresses and get accurate geocoding for any location. Gain valuable insights into country market contexts, including population, area, and currency, essential for making informed investment decisions. Ideal for real estate agents, investors, and market analysts looking for reliable data to enhance their property research."
 }
