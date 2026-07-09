@@ -1,0 +1,7 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "varvararatta"
+  ],
+  "description": "Unlock a world of art with the Met Museum MCP! Use the 'search_artworks' API to find stunning pieces from the Metropolitan Museum's open collection and retrieve detailed metadata with 'get_artwork'. Ideal for educators, artists, and art enthusiasts, this API allows you to curate personalized experiences or enhance educational content. Whether you're creating a digital gallery or conducting research, the Met's treasures are just a query away."
+}
