@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "Unlock the power of food transparency with our Open Food Facts MCP server. Easily look up any food product by its barcode and receive vital information like name, brands, and nutri-score. Perfect for developers, health enthusiasts, and anyone curious about what they consume. With zero authentication needed, integration into your applications is seamless and straightforward. Whether you're building health apps or just want to know what\u2019s in your pantry, this tool is for you."
+  "description": "Discover what's in your food with the Open Food Facts MCP server! Use the barcode lookup to identify products, check their brands, and even see their nutri-scores. Ideal for health-conscious consumers, nutritionists, and developers building food-related applications. With zero authentication required, you can quickly access product information on-the-go. Make informed choices about what you eat with our powerful API."
 }
