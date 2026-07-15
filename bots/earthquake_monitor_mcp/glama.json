@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "Our Earthquake Monitor harnesses the USGS earthquake feed to provide you with up-to-the-minute information on recent seismic activities. Perfect for researchers, safety agencies, and anyone interested in global seismic events, you can filter earthquakes by magnitude and timeframe. With tools to list recent quakes and highlight significant ones, it\u2019s an essential resource for disaster preparedness and awareness. Monitor the earth's movements effortlessly and stay informed wherever you are."
+  "description": "Monitor the world's seismic activity effortlessly with our Earthquake Monitor MCP. Access the latest earthquake data, filter by magnitude, and stay informed about significant quakes over the past week or month. Ideal for researchers, safety officials, or anyone interested in natural phenomena, our API offers seamless integration with your applications. With a free health check tool, ensure your connection is always up to date while you receive crucial alerts."
 }
