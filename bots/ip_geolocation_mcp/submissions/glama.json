@@ -1,0 +1,7 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "varvararatta"
+  ],
+  "description": "Unlock the power of IP geolocation with our tool! Whether you're a developer needing location data for user analytics or a cybersecurity expert tracking suspicious activity, our service delivers precise information. You can geolocate individual IPs or process batches of up to five addresses in one go. Ideal for businesses, marketers, and security professionals looking to enhance their services with location insights."
+}

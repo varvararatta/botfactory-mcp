@@ -1,0 +1,26 @@
+{
+  "display_name": "Ukrainian Postal Tracker",
+  "short_description": "Effortlessly track your Nova Poshta shipments in real time.",
+  "long_description": "Stay updated on your shipments with our Ukrainian postal tracking tool for Nova Poshta. Use the track_shipment API to get live status updates, including delivery dates and locations. Perfect for businesses and individuals alike, this service helps you manage your shipments effectively. Whether you're a seller needing to inform customers or a buyer tracking your order, our API delivers precise information at a minimal cost. Experience seamless tracking with zero authentication required.",
+  "seo_title": "Track Nova Poshta Shipments Easily",
+  "seo_description": "Get real-time updates on your Nova Poshta shipments with our Ukrainian postal tracking API. Fast, reliable, and cost-effective.",
+  "tags": [
+    "ukrainian",
+    "postal",
+    "tracking",
+    "nova poshta",
+    "api",
+    "shipping",
+    "logistics",
+    "real-time"
+  ],
+  "marketplace_review": "The Ukrainian Postal Tracker is an essential tool for anyone using Nova Poshta. It provides accurate and timely updates on shipment status, making logistics hassle-free.",
+  "awesome_one_liner": "Track Nova Poshta shipments effortlessly with real-time updates!",
+  "demo_tool": "track_shipment",
+  "_meta": {
+    "model": "gpt-4o-mini",
+    "cost_usd": 0.000217
+  },
+  "bot_name": "ua_postal_tracking_mcp",
+  "generated_at": "2026-06-24T16:47:09"
+}

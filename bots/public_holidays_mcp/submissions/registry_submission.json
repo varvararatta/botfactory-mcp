@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.varvararatta/public_holidays_mcp",
+  "title": "Public Holidays Mcp",
+  "description": "Streamline your applications with the Global Public Holidays API, offering instant access to",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/varvararatta/botfactory-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://public-holidays-mcp.mcpize.run/mcp"
+    }
+  ]
+}

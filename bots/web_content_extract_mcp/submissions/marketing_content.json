@@ -1,0 +1,25 @@
+{
+  "display_name": "Web Content Extractor",
+  "short_description": "Effortlessly extract text and metadata from public web pages!",
+  "long_description": "Unlock the power of web content extraction with our Web Content Extractor. Perfect for content creators, researchers, and marketers, this tool fetches clean text, metadata, and links from any public URL. Use the fetch_url_content API for extracting main text, or dive deeper with the extract_article feature for news and blog content. With a simple, pay-per-use model, you'll have access to valuable insights from the web, all while saving time and enhancing your projects.",
+  "seo_title": "Efficient Web Content Extraction Tool",
+  "seo_description": "Extract text, links, and metadata from public web pages easily. Ideal for researchers and marketers.",
+  "tags": [
+    "web scraping",
+    "content extraction",
+    "metadata",
+    "public URLs",
+    "SEO tools",
+    "data extraction",
+    "text fetching"
+  ],
+  "marketplace_review": "The Web Content Extractor is an essential tool for anyone needing quick access to online content. Its user-friendly API allows for seamless integration into any project, making it a favorite among developers and marketers alike.",
+  "awesome_one_liner": "Extract clean web content effortlessly with our powerful API!",
+  "demo_tool": "fetch_url_content",
+  "_meta": {
+    "model": "gpt-4o-mini",
+    "cost_usd": 0.000226
+  },
+  "bot_name": "web_content_extract_mcp",
+  "generated_at": "2026-07-09T06:58:03"
+}

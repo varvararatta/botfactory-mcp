@@ -1,0 +1,46 @@
+# MCPize manifest - https://mcpize.com
+version: 1
+name: github_public_repos_mcp
+description: Uncover valuable metadata from public GitHub repositories effortlessly!
+runtime: python
+entry: server.py
+build:
+  install: pip install -r requirements.txt
+startCommand:
+  type: stdio
+  command: python
+  args:
+  - server.py
+long_description: Dive into the world of open-source with the GitHub Repo Explorer!
+  Utilize the powerful GitHub public REST API to get detailed metadata about any public
+  repository or search for repositories that match your interests. Developers, researchers,
+  and businesses can leverage this tool to discover new projects, analyze coding trends,
+  or find collaborators. Perfect for anyone looking to tap into the vast ecosystem
+  of GitHub without the hassle of authentication.
+category: utilities
+categories:
+- utilities
+- github
+- public repos
+- api
+tags:
+- github
+- public repos
+- api
+- metadata
+- open source
+- developers
+- search
+- repositories
+pricing:
+  protocol: x402
+  network: base
+  recipient: '0x170b522a5e2c75AF546C57c9739Aa3583836D908'
+  asset: usdc
+  tools:
+  - name: get_repo
+    price: '0.01'
+  - name: search_repositories
+    price: '0'
+  - name: health_check
+    price: '0'

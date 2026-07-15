@@ -1,0 +1,45 @@
+# MCPize manifest - https://mcpize.com
+version: 1
+name: world_bank_indicators_mcp
+description: Unlock global economic indicators effortlessly!
+runtime: python
+entry: server.py
+build:
+  install: pip install -r requirements.txt
+startCommand:
+  type: stdio
+  command: python
+  args:
+  - server.py
+long_description: Dive into the wealth of information provided by the World Bank with
+  our zero-auth API. Instantly retrieve a list of countries or access specific economic
+  indicators like GDP for any nation using just the country code. Ideal for researchers,
+  economists, and developers looking to integrate key global data points into their
+  applications or analyses. With a minimal cost per API call, accessing vital statistics
+  has never been easier or more affordable.
+category: education
+categories:
+- education
+- world bank
+- economic indicators
+- open data
+tags:
+- world bank
+- economic indicators
+- open data
+- api
+- gdp
+- research
+- data access
+pricing:
+  protocol: x402
+  network: base
+  recipient: '0x170b522a5e2c75AF546C57c9739Aa3583836D908'
+  asset: usdc
+  tools:
+  - name: list_countries
+    price: '0'
+  - name: get_indicator
+    price: '0.01'
+  - name: health_check
+    price: '0'

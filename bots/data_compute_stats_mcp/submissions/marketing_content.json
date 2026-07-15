@@ -1,0 +1,24 @@
+{
+  "display_name": "Data Compute & Stats Hub",
+  "short_description": "Unlock powerful computations at your fingertips.",
+  "long_description": "Dive into a suite of pure Python tools designed for precise mathematical computations and insightful statistics. From calculating IRR and NPV for financial projects to converting units seamlessly, this MCP server caters to your analytical needs. Whether you're a data analyst, financial expert, or student, you’ll find reliable results for your calculations without any authentication barriers. Access live currency exchange rates directly from the National Bank of Ukraine to stay updated!",
+  "seo_title": "Advanced Data Computation Tools",
+  "seo_description": "Explore powerful math and stats tools for IRR, NPV, and more. Get currency rates without auth!",
+  "tags": [
+    "data",
+    "statistics",
+    "finance",
+    "currency",
+    "calculations",
+    "python"
+  ],
+  "marketplace_review": "This MCP server is a game-changer for anyone needing quick and reliable calculations. Its user-friendly interface and powerful Python tools make it an essential resource for analysts and developers alike.",
+  "awesome_one_liner": "Effortless computations and stats at your service!",
+  "demo_tool": "calculate_statistics",
+  "_meta": {
+    "model": "gpt-4o-mini",
+    "cost_usd": 0.000224
+  },
+  "bot_name": "data_compute_stats_mcp",
+  "generated_at": "2026-07-09T06:49:19"
+}

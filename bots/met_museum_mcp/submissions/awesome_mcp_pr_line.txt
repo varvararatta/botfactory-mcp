@@ -1,0 +1,1 @@
+- [Met Museum Mcp](https://met-museum-mcp.mcpize.run) — Unlock a world of art with the Met Museum MCP! Use the 'search_artworks' API to find stunning pieces from the Metropolitan Museum's open collection and retrieve detailed metadata with 'get_artwork'

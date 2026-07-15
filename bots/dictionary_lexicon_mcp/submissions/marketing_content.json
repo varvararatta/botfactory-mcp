@@ -1,0 +1,25 @@
+{
+  "display_name": "Lexicon Master Bot",
+  "short_description": "Unlock the power of words with instant definitions and synonyms!",
+  "long_description": "Discover the true meaning of any English word with our Dictionary Lexicon MCP. Whether you're a student needing definitions for your assignments or a writer seeking the perfect synonym, this tool is designed for you. Easily access phonetics and examples to enhance your vocabulary. With zero authentication required, just call our API and start exploring the richness of the English language today!",
+  "seo_title": "Free Dictionary API for Definitions & Synonyms",
+  "seo_description": "Explore word meanings, synonyms, and phonetics with our free Dictionary API. Zero auth required for easy access.",
+  "tags": [
+    "dictionary",
+    "lexicon",
+    "api",
+    "definitions",
+    "synonyms",
+    "english",
+    "vocabulary"
+  ],
+  "marketplace_review": "The Dictionary Lexicon MCP is a game-changer for anyone who loves words. Its easy-to-use API provides quick access to definitions and synonyms, making it perfect for students and writers alike. A must-have resource for enhancing language skills!",
+  "awesome_one_liner": "Instantly define words and discover synonyms with ease!",
+  "demo_tool": "define_word",
+  "_meta": {
+    "model": "gpt-4o-mini",
+    "cost_usd": 0.00021
+  },
+  "bot_name": "dictionary_lexicon_mcp",
+  "generated_at": "2026-07-09T07:22:48"
+}

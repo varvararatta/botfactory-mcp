@@ -1,0 +1,26 @@
+{
+  "display_name": "Legal Insight Bot",
+  "short_description": "Unlock legal insights effortlessly with powerful tools!",
+  "long_description": "Dive into the world of legal research with our legal_mcp server. Use our 'search_legislation' tool to explore statutes and case summaries directly from Wikipedia. Need to extract citations? Our 'extract_citations' tool does that seamlessly. For quick comprehension, utilize 'summarize_legal_text' to distill complex legal documents into concise summaries. Ideal for law students, professionals, and anyone seeking clarity in legal matters.",
+  "seo_title": "Effortless Legal Research Tools",
+  "seo_description": "Explore legal topics, extract citations, and summarize texts with our powerful legal research tools. Start your journey now!",
+  "tags": [
+    "legal",
+    "research",
+    "citations",
+    "summarization",
+    "statutes",
+    "case law",
+    "wikipedia",
+    "tools"
+  ],
+  "marketplace_review": "The legal_mcp server is a game changer for anyone in the legal field. Its tools are user-friendly and provide accurate information, making legal research a breeze. Highly recommended for students and professionals alike!",
+  "awesome_one_liner": "Transform your legal research with ease and precision!",
+  "demo_tool": "search_legislation",
+  "_meta": {
+    "model": "gpt-4o-mini",
+    "cost_usd": 0.000223
+  },
+  "bot_name": "legal_mcp",
+  "generated_at": "2026-07-09T06:54:09"
+}

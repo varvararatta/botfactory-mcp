@@ -1,0 +1,25 @@
+{
+  "display_name": "World Bank Data Access",
+  "short_description": "Unlock global economic indicators effortlessly!",
+  "long_description": "Dive into the wealth of information provided by the World Bank with our zero-auth API. Instantly retrieve a list of countries or access specific economic indicators like GDP for any nation using just the country code. Ideal for researchers, economists, and developers looking to integrate key global data points into their applications or analyses. With a minimal cost per API call, accessing vital statistics has never been easier or more affordable.",
+  "seo_title": "World Bank Economic Indicators API",
+  "seo_description": "Access World Bank indicators for countries globally with zero authentication. Affordable and easy data retrieval for economic analysis.",
+  "tags": [
+    "world bank",
+    "economic indicators",
+    "open data",
+    "api",
+    "gdp",
+    "research",
+    "data access"
+  ],
+  "marketplace_review": "The World Bank Indicators MCP provides seamless access to crucial economic data. Perfect for developers and analysts seeking reliable information at a low cost.",
+  "awesome_one_liner": "Access World Bank indicators seamlessly with zero auth!",
+  "demo_tool": "list_countries",
+  "_meta": {
+    "model": "gpt-4o-mini",
+    "cost_usd": 0.000199
+  },
+  "bot_name": "world_bank_indicators_mcp",
+  "generated_at": "2026-07-09T07:23:39"
+}

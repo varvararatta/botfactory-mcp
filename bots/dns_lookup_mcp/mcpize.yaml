@@ -1,0 +1,45 @@
+# MCPize manifest - https://mcpize.com
+version: 1
+name: dns_lookup_mcp
+description: Get fast and reliable DNS resolutions with ease!
+runtime: python
+entry: server.py
+build:
+  install: pip install -r requirements.txt
+startCommand:
+  type: stdio
+  command: python
+  args:
+  - server.py
+long_description: Unlock the power of DNS lookups with our DNS Lookup service using
+  Google DNS-over-HTTPS. Whether you're a developer needing quick DNS resolutions
+  for A, AAAA, MX, TXT, CNAME, or NS records, or a business ensuring your domain configurations
+  are correct, this tool has you covered. With zero authentication required, it’s
+  perfect for anyone needing instant results. Enjoy a health check feature for free
+  to keep your service running smoothly.
+category: utilities
+categories:
+- utilities
+- dns
+- lookup
+- google
+tags:
+- dns
+- lookup
+- google
+- https
+- records
+- api
+- developer
+pricing:
+  protocol: x402
+  network: base
+  recipient: '0x170b522a5e2c75AF546C57c9739Aa3583836D908'
+  asset: usdc
+  tools:
+  - name: resolve_dns
+    price: '0.01'
+  - name: list_dns_types
+    price: '0'
+  - name: health_check
+    price: '0'

@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.varvararatta/ecommerce_mcp",
+  "title": "Ecommerce Mcp",
+  "description": "Dive into a vast catalog of over 3 million products via Open Food Facts. This powerful tool is",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/varvararatta/botfactory-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://ecommerce-mcp.mcpize.run/mcp"
+    }
+  ]
+}

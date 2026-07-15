@@ -1,0 +1,24 @@
+{
+  "display_name": "Air Quality Insights",
+  "short_description": "Stay ahead of pollution with real-time air quality data.",
+  "long_description": "Discover the air quality around you with our easy-to-use APIs. Whether you're planning outdoor activities or just want to know the air quality in your city, our service provides accurate metrics like European AQI and PM2.5/PM10 levels. Use the geocoding feature to search for air quality by city name, making it perfect for travelers and health-conscious individuals. Ideal for environmental researchers, city planners, and anyone interested in maintaining a healthy lifestyle.",
+  "seo_title": "Real-Time Air Quality Monitoring API",
+  "seo_description": "Get accurate air quality data with our easy APIs. Monitor pollution levels in any city or coordinates effortlessly.",
+  "tags": [
+    "air quality",
+    "pollution",
+    "environment",
+    "health",
+    "API",
+    "data"
+  ],
+  "marketplace_review": "The Air Quality Insights server is a game changer for anyone concerned about pollution. With precise data available at your fingertips, staying informed about air quality has never been easier. A must-have tool for health enthusiasts and researchers alike!",
+  "awesome_one_liner": "Monitor air quality effortlessly with real-time insights!",
+  "demo_tool": "search_city_air",
+  "_meta": {
+    "model": "gpt-4o-mini",
+    "cost_usd": 0.000221
+  },
+  "bot_name": "air_quality_mcp",
+  "generated_at": "2026-07-15T03:58:23"
+}

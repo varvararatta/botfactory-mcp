@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.varvararatta/finance_fintech_mcp",
+  "title": "Finance Fintech Mcp",
+  "description": "Unlock the power of financial insights with our Finance MCP. Get the latest foreign exchange rates",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/varvararatta/botfactory-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://finance-fintech-mcp.mcpize.run/mcp"
+    }
+  ]
+}

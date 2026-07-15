@@ -1,0 +1,47 @@
+# MCPize manifest - https://mcpize.com
+version: 1
+name: public_data_ukraine_mcp
+description: Instant access to crucial Ukrainian data without authentication.
+runtime: container
+entry: server.py
+build:
+  dockerfile: Dockerfile
+startCommand:
+  type: http
+long_description: Unlock real-time insights into Ukraine's economy and public services
+  with our comprehensive data APIs. Get official NBU exchange rates, explore public
+  procurement tenders on Prozorro, and geocode Ukrainian addresses effortlessly. Whether
+  you're a business analyst, researcher, or developer, this server equips you with
+  essential tools to make informed decisions and enhance your projects. Dive into
+  the rich landscape of Ukrainian public data today!
+category: travel
+categories:
+- travel
+- ukraine
+- public data
+- nbo rates
+tags:
+- ukraine
+- public data
+- nbo rates
+- prozorro
+- geocoding
+- open street map
+- weather
+- no auth
+pricing:
+  protocol: x402
+  network: base
+  recipient: '0x170b522a5e2c75AF546C57c9739Aa3583836D908'
+  asset: usdc
+  tools:
+  - name: health_check
+    price: '0'
+  - name: get_exchange_rates
+    price: '0.01'
+  - name: search_prozorro_tenders
+    price: '0'
+  - name: geocode_ukraine
+    price: '0.01'
+  - name: get_weather_ukraine
+    price: '0.01'

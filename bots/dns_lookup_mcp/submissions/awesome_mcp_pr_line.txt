@@ -1,0 +1,1 @@
+- [Dns Lookup Mcp](https://dns-lookup-mcp.mcpize.run) — Unlock the power of DNS lookups with our DNS Lookup service using Google DNS-over-HTTPS

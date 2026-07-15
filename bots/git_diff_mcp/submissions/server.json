@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.varvararatta/git_diff_mcp",
+  "title": "Git Diff Mcp",
+  "description": "With Git Diff Analyzer, analyzing git diffs and GitHub pull requests has never been easier. Use",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/varvararatta/botfactory-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://git-diff-mcp.mcpize.run/mcp"
+    }
+  ]
+}

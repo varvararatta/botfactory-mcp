@@ -1,0 +1,7 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "varvararatta"
+  ],
+  "description": "Unlock the power of financial insights with our Finance MCP. Get the latest foreign exchange rates through the Frankfurter API, or dive into cryptocurrency prices with CoinGecko. Perfect for developers and finance enthusiasts who need accurate, real-time data without the hassle of authentication. Whether you're building trading applications or just need quick conversions, our tools are designed for seamless integration. Start exploring today!"
+}

@@ -1,0 +1,26 @@
+{
+  "display_name": "Ukrainian Public Data Hub",
+  "short_description": "Instant access to crucial Ukrainian data without authentication.",
+  "long_description": "Unlock real-time insights into Ukraine's economy and public services with our comprehensive data APIs. Get official NBU exchange rates, explore public procurement tenders on Prozorro, and geocode Ukrainian addresses effortlessly. Whether you're a business analyst, researcher, or developer, this server equips you with essential tools to make informed decisions and enhance your projects. Dive into the rich landscape of Ukrainian public data today!",
+  "seo_title": "Access Ukrainian Public Data Instantly",
+  "seo_description": "Discover NBU rates, Prozorro tenders, and geocoding for Ukraine. All with zero authentication!",
+  "tags": [
+    "ukraine",
+    "public data",
+    "nbo rates",
+    "prozorro",
+    "geocoding",
+    "open street map",
+    "weather",
+    "no auth"
+  ],
+  "marketplace_review": "This MCP server is a game-changer for anyone needing reliable Ukrainian public data. With no authentication required, accessing exchange rates and procurement tenders has never been easier!",
+  "awesome_one_liner": "Seamlessly access Ukraine's public data with zero authentication!",
+  "demo_tool": "get_exchange_rates",
+  "_meta": {
+    "model": "gpt-4o-mini",
+    "cost_usd": 0.000225
+  },
+  "bot_name": "public_data_ukraine_mcp",
+  "generated_at": "2026-07-09T06:56:45"
+}

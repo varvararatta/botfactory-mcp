@@ -1,0 +1,7 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "varvararatta"
+  ],
+  "description": "Unlock comprehensive country information with ease! Discover capitals, currencies, and neighboring nations using our API. Perfect for developers, researchers, and businesses needing reliable geographic data. Whether you're building an app or conducting research, our service provides the essential data you need quickly and affordably. Start your global exploration today with just a simple API call!"
+}

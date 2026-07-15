@@ -1,0 +1,50 @@
+# MCPize manifest - https://mcpize.com
+version: 1
+name: prozorro_tender_monitor_mcp
+description: Unlock real-time insights into Ukrainian public tenders.
+runtime: python
+entry: server.py
+build:
+  install: pip install -r requirements.txt
+startCommand:
+  type: stdio
+  command: python
+  args:
+  - server.py
+long_description: Stay ahead in the competitive landscape of Ukrainian public procurement
+  with our Prozorro Tender Monitor. Effortlessly search for tenders using keywords,
+  access detailed tender information, and keep track of recent modifications. Ideal
+  for businesses, contractors, and consultants looking to secure lucrative government
+  contracts. Leverage our APIs and gain a strategic advantage in navigating the Prozorro
+  system.
+category: utilities
+categories:
+- utilities
+- prozorro
+- tender
+- monitor
+tags:
+- prozorro
+- tender
+- monitor
+- procurement
+- ukrainian
+- government
+- insights
+- api
+pricing:
+  protocol: x402
+  network: base
+  recipient: '0x170b522a5e2c75AF546C57c9739Aa3583836D908'
+  asset: usdc
+  tools:
+  - name: search_tenders
+    price: '0'
+  - name: get_tender
+    price: '0.01'
+  - name: get_recent_tenders
+    price: '0.01'
+  - name: get_tender_stats
+    price: '0'
+  - name: health_check
+    price: '0'

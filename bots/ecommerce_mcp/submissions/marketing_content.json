@@ -1,0 +1,25 @@
+{
+  "display_name": "E-Commerce Insights Unlocked",
+  "short_description": "Access 3M+ global products effortlessly with zero authentication!",
+  "long_description": "Dive into a vast catalog of over 3 million products via Open Food Facts. This powerful tool is perfect for e-commerce businesses, market analysts, and food industry professionals looking to enhance their offerings or conduct comprehensive market research. With zero authentication required, you can quickly integrate product data into your applications, streamline inventory management, or analyze consumer trends. Unlock valuable insights and stay ahead of the competition with ease!",
+  "seo_title": "Unlock E-Commerce Insights with 3M+ Products",
+  "seo_description": "Explore 3M+ global products through Open Food Facts. Seamless integration for e-commerce insights and market research!",
+  "tags": [
+    "ecommerce",
+    "productcatalog",
+    "openfoodfacts",
+    "marketresearch",
+    "foodindustry",
+    "dataanalytics",
+    "insights"
+  ],
+  "marketplace_review": "This server is a game-changer for anyone in e-commerce! With millions of products at your fingertips, gaining insights has never been easier. Highly recommended for market researchers and businesses alike.",
+  "awesome_one_liner": "Access 3M+ products for unparalleled e-commerce insights!",
+  "demo_tool": "health_check",
+  "_meta": {
+    "model": "gpt-4o-mini",
+    "cost_usd": 0.000213
+  },
+  "bot_name": "ecommerce_mcp",
+  "generated_at": "2026-07-09T06:49:55"
+}

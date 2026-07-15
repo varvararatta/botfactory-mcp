@@ -1,0 +1,7 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "varvararatta"
+  ],
+  "description": "Travel smarter with real-time insights on countries, weather, and currency conversions. Use our APIs to get up-to-date information on capital cities, climate conditions, and budget management. Whether you're a globetrotter planning your next adventure or a travel agent seeking accurate details, our tools empower you to make informed decisions effortlessly. No authentication is required, making access seamless and fast."
+}

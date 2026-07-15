@@ -1,0 +1,1 @@
+- [Open Food Facts Mcp](https://open-food-facts-mcp.mcpize.run) — Unlock the power of food transparency with our Open Food Facts MCP server

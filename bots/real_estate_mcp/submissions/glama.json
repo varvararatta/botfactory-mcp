@@ -1,0 +1,7 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "varvararatta"
+  ],
+  "description": "Dive into the world of real estate with our powerful location intelligence tools. Use OpenStreetMap Nominatim to effortlessly search for property addresses and get accurate geocoding for any location. Gain valuable insights into country market contexts, including population, area, and currency, essential for making informed investment decisions. Ideal for real estate agents, investors, and market analysts looking for reliable data to enhance their property research."
+}

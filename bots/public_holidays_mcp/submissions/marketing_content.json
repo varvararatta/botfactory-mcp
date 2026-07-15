@@ -1,0 +1,25 @@
+{
+  "display_name": "Global Public Holidays API",
+  "short_description": "Access public holiday data for over 100 countries with ease!",
+  "long_description": "Streamline your applications with the Global Public Holidays API, offering instant access to holiday data for over 100 countries. Perfect for developers, businesses, and planners seeking accurate holiday information without the hassle of authentication. Use it to enhance calendars, plan marketing campaigns, or manage staffing schedules. With the nager.at API, you can ensure your projects are always up-to-date with the latest public holiday information.",
+  "seo_title": "Access Public Holidays Worldwide",
+  "seo_description": "Discover public holidays for 100+ countries effortlessly with our API. Perfect for developers and businesses. Try it now!",
+  "tags": [
+    "public holidays",
+    "nager.at",
+    "api",
+    "global",
+    "calendar",
+    "data",
+    "holiday"
+  ],
+  "marketplace_review": "The Global Public Holidays API is a game changer for developers needing reliable holiday data. It's easy to implement and covers a wide range of countries, making it a must-have for any global application.",
+  "awesome_one_liner": "Effortlessly access global public holidays data!",
+  "demo_tool": "health_check",
+  "_meta": {
+    "model": "gpt-4o-mini",
+    "cost_usd": 0.000197
+  },
+  "bot_name": "public_holidays_mcp",
+  "generated_at": "2026-07-09T06:56:54"
+}

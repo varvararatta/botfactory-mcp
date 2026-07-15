@@ -1,0 +1,25 @@
+{
+  "display_name": "Hacker News Insights",
+  "short_description": "Stay updated with the hottest tech stories from Hacker News!",
+  "long_description": "Dive into the latest and greatest from the tech world with our Hacker News MCP server. Effortlessly list the top 20 stories and fetch detailed information about any story or comment using our simple APIs. Ideal for developers, tech enthusiasts, and content creators looking to integrate trending news into their applications. With zero authentication required, accessing real-time insights has never been easier. Start building today and keep your audience informed!",
+  "seo_title": "Top Stories from Hacker News API",
+  "seo_description": "Fetch and list top Hacker News stories effortlessly with our MCP server. Stay updated on tech trends!",
+  "tags": [
+    "hacker news",
+    "api",
+    "tech stories",
+    "news aggregator",
+    "firebase",
+    "developer tools",
+    "real-time"
+  ],
+  "marketplace_review": "The Hacker News MCP server is an essential tool for anyone wanting real-time access to tech stories. With a simple API and no authentication, it’s perfect for developers and content creators alike.",
+  "awesome_one_liner": "Get the hottest Hacker News stories in a snap!",
+  "demo_tool": "list_top_stories",
+  "_meta": {
+    "model": "gpt-4o-mini",
+    "cost_usd": 0.000205
+  },
+  "bot_name": "hacker_news_mcp",
+  "generated_at": "2026-07-09T07:22:58"
+}

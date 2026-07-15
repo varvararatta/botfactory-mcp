@@ -1,0 +1,7 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "varvararatta"
+  ],
+  "description": "Discover the magic of day and night with our Sunrise & Sunset API. Get accurate sunrise, sunset, and twilight times for any location worldwide using coordinates or city names. Perfect for photographers seeking the golden hour, travelers planning their adventures, or anyone curious about the rhythm of nature. With zero authentication required, accessing astronomical data has never been easier. Start planning your outdoor activities with confidence today!"
+}

@@ -1,0 +1,25 @@
+{
+  "display_name": "IP Geolocation Tool",
+  "short_description": "Instantly geolocate any IP address with ease!",
+  "long_description": "Unlock the power of IP geolocation with our tool! Whether you're a developer needing location data for user analytics or a cybersecurity expert tracking suspicious activity, our service delivers precise information. You can geolocate individual IPs or process batches of up to five addresses in one go. Ideal for businesses, marketers, and security professionals looking to enhance their services with location insights.",
+  "seo_title": "Accurate IP Geolocation Service",
+  "seo_description": "Effortlessly geolocate IP addresses with our tool. Get detailed info on location, ISP, and more. Try it now!",
+  "tags": [
+    "ip geolocation",
+    "api",
+    "location data",
+    "lookup",
+    "internet security",
+    "analytics",
+    "ip address"
+  ],
+  "marketplace_review": "This IP Geolocation tool is a game changer! It provides accurate location data for any IP address, making it essential for developers and security analysts alike. Easy to use and highly reliable, it’s a must-have for anyone needing location insights.",
+  "awesome_one_liner": "Discover precise IP locations effortlessly!",
+  "demo_tool": "lookup_ip",
+  "_meta": {
+    "model": "gpt-4o-mini",
+    "cost_usd": 0.000208
+  },
+  "bot_name": "ip_geolocation_mcp",
+  "generated_at": "2026-07-09T07:22:24"
+}

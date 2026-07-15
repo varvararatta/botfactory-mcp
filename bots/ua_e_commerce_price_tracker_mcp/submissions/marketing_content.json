@@ -1,0 +1,26 @@
+{
+  "display_name": "Ukrainian Price Tracker",
+  "short_description": "Track and compare prices from Rozetka and OLX effortlessly!",
+  "long_description": "Discover the best prices in Ukrainian e-commerce with our powerful price tracker. Use the 'search_rozetka' and 'search_olx' APIs to find products and listings instantly. Compare prices across platforms with 'compare_prices' to ensure you get the best deal. Perfect for savvy shoppers, resellers, and market analysts looking to stay ahead of the competition.",
+  "seo_title": "Ukrainian E-commerce Price Tracker",
+  "seo_description": "Track and compare prices on Rozetka and OLX with zero-auth scraping. Get the best deals in Ukraine today!",
+  "tags": [
+    "ua",
+    "ecommerce",
+    "price tracker",
+    "rozetka",
+    "olx",
+    "scraping",
+    "comparison",
+    "shopping"
+  ],
+  "marketplace_review": "The Ukrainian Price Tracker is a game-changer for online shoppers. It simplifies finding the best deals across Rozetka and OLX, making it indispensable for anyone looking to save money.",
+  "awesome_one_liner": "Uncover the best prices in Ukraine with seamless tracking!",
+  "demo_tool": "search_rozetka",
+  "_meta": {
+    "model": "gpt-4o-mini",
+    "cost_usd": 0.000228
+  },
+  "bot_name": "ua_e_commerce_price_tracker_mcp",
+  "generated_at": "2026-06-24T16:46:19"
+}

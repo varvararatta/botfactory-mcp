@@ -1,0 +1,65 @@
+# MCPize manifest - https://mcpize.com
+version: 1
+name: text_intelligence_mcp
+description: Harness NLP power without the hassle!
+runtime: container
+entry: server.py
+build:
+  dockerfile: Dockerfile
+startCommand:
+  type: http
+tools:
+- name: detect_language
+  description: 'Detect language of text using character frequency analysis. Returns:
+    {language, confidence, method}'
+- name: analyze_sentiment
+  description: 'Analyze sentiment of text (positive/negative/neutral). Returns: {score,
+    label, confidence}'
+- name: extract_keywords
+  description: 'Extract top keywords from text using TF scoring. Returns: {keywords:
+    [{word, score}], total_words}'
+- name: find_duplicates
+  description: 'Find duplicate or near-duplicate texts using Jaccard similarity. Returns:
+    {duplicates: [{text1_idx, text2_idx, similarity}]}'
+- name: summarize_text
+  description: 'Extractive summarization — picks most important sentences. Returns:
+    {summary, sentences_used, original_length}'
+- name: health_check
+  description: Server health check.
+long_description: Unleash the potential of your text data with Text Intelligence.
+  Our pure Python NLP tools allow you to detect language, analyze sentiment, extract
+  keywords, and summarize text effortlessly. Businesses, researchers, and developers
+  will find immense value in our user-friendly APIs that require no authentication
+  or external dependencies. Perfect for content creators and marketers looking to
+  enhance their text analysis capabilities.
+category: utilities
+categories:
+- utilities
+- nlp
+- text analysis
+- language detection
+tags:
+- nlp
+- text analysis
+- language detection
+- sentiment
+- keywords
+- summarization
+pricing:
+  protocol: x402
+  network: base
+  recipient: '0x170b522a5e2c75AF546C57c9739Aa3583836D908'
+  asset: usdc
+  tools:
+  - name: detect_language
+    price: '0'
+  - name: analyze_sentiment
+    price: '0.01'
+  - name: extract_keywords
+    price: '0.01'
+  - name: find_duplicates
+    price: '0.01'
+  - name: summarize_text
+    price: '0.01'
+  - name: health_check
+    price: '0'

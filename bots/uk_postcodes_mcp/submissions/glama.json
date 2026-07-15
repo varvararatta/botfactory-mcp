@@ -1,0 +1,7 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "varvararatta"
+  ],
+  "description": "Access comprehensive UK postcode information effortlessly with our geocoding services. Whether you need to lookup a postcode for precise location data, or reverse geocode coordinates to find nearby postcodes, our tools are designed for developers, businesses, and researchers alike. Ideal for location-based services, real estate applications, and logistics planning, this MCP server offers reliable data without the hassle of authentication. Discover the power of precise location insights today!"
+}

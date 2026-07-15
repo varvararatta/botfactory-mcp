@@ -1,0 +1,49 @@
+# MCPize manifest - https://mcpize.com
+version: 1
+name: public_holidays_mcp
+description: Access public holiday data for over 100 countries with ease!
+runtime: python
+entry: server.py
+build:
+  install: pip install -r requirements.txt
+startCommand:
+  type: stdio
+  command: python
+  args:
+  - server.py
+long_description: Streamline your applications with the Global Public Holidays API,
+  offering instant access to holiday data for over 100 countries. Perfect for developers,
+  businesses, and planners seeking accurate holiday information without the hassle
+  of authentication. Use it to enhance calendars, plan marketing campaigns, or manage
+  staffing schedules. With the nager.at API, you can ensure your projects are always
+  up-to-date with the latest public holiday information.
+category: utilities
+categories:
+- utilities
+- public holidays
+- nager.at
+- api
+tags:
+- public holidays
+- nager.at
+- api
+- global
+- calendar
+- data
+- holiday
+pricing:
+  protocol: x402
+  network: base
+  recipient: '0x170b522a5e2c75AF546C57c9739Aa3583836D908'
+  asset: usdc
+  tools:
+  - name: get_holidays
+    price: '0.01'
+  - name: is_holiday
+    price: '0'
+  - name: next_holiday
+    price: '0'
+  - name: working_days
+    price: '0.01'
+  - name: health_check
+    price: '0'

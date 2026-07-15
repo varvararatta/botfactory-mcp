@@ -1,0 +1,47 @@
+# MCPize manifest - https://mcpize.com
+version: 1
+name: uk_postcodes_mcp
+description: Unlock the power of UK postcode data with ease!
+runtime: python
+entry: server.py
+build:
+  install: pip install -r requirements.txt
+startCommand:
+  type: stdio
+  command: python
+  args:
+  - server.py
+long_description: Access comprehensive UK postcode information effortlessly with our
+  geocoding services. Whether you need to lookup a postcode for precise location data,
+  or reverse geocode coordinates to find nearby postcodes, our tools are designed
+  for developers, businesses, and researchers alike. Ideal for location-based services,
+  real estate applications, and logistics planning, this MCP server offers reliable
+  data without the hassle of authentication. Discover the power of precise location
+  insights today!
+category: utilities
+categories:
+- utilities
+- uk
+- postcodes
+- geocoding
+tags:
+- uk
+- postcodes
+- geocoding
+- api
+- location
+- data
+- lookup
+- reverse
+pricing:
+  protocol: x402
+  network: base
+  recipient: '0x170b522a5e2c75AF546C57c9739Aa3583836D908'
+  asset: usdc
+  tools:
+  - name: lookup_postcode
+    price: '0.01'
+  - name: reverse_geocode
+    price: '0.01'
+  - name: health_check
+    price: '0'

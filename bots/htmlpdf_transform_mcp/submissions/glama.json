@@ -1,0 +1,7 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "varvararatta"
+  ],
+  "description": "Unlock the power of clean, structured text with our HTML to Markdown transformation tools. Whether you need to convert web content to Markdown for documentation, strip tags for plain text usage, or extract tables for data analysis, this server has you covered. Ideal for developers, content creators, and analysts who demand precision without the hassle of complex APIs. Enjoy seamless, fast transformations with zero authentication required!"
+}

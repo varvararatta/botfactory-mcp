@@ -1,0 +1,25 @@
+{
+  "display_name": "Instant Currency Converter",
+  "short_description": "Convert currencies instantly with live rates at your fingertips!",
+  "long_description": "Need to convert currencies on the fly? Our Instant Currency Converter uses live rates from the ECB, ensuring you get the most accurate conversions. Ideal for travelers, online shoppers, and businesses operating globally, this tool is both fast and reliable. With no authentication required and a simple API call, you can easily integrate currency conversion into your applications or websites. Start converting today and make informed financial decisions effortlessly!",
+  "seo_title": "Live Currency Conversion Tool",
+  "seo_description": "Convert currencies instantly with live ECB rates. Easy, reliable, and free health checks!",
+  "tags": [
+    "currency",
+    "converter",
+    "live rates",
+    "financial tools",
+    "API",
+    "ECB",
+    "travel"
+  ],
+  "marketplace_review": "The Instant Currency Converter is a must-have for anyone dealing with multiple currencies. It's quick, accurate, and incredibly easy to use. Perfect for businesses and travelers alike!",
+  "awesome_one_liner": "Convert currencies instantly with live rates!",
+  "demo_tool": "convert",
+  "_meta": {
+    "model": "gpt-4o-mini",
+    "cost_usd": 0.000189
+  },
+  "bot_name": "currency_converter_mcp",
+  "generated_at": "2026-07-09T06:48:25"
+}

@@ -1,0 +1,45 @@
+# MCPize manifest - https://mcpize.com
+version: 1
+name: tv_maze_mcp
+description: Discover your favorite TV shows and episodes with ease!
+runtime: python
+entry: server.py
+build:
+  install: pip install -r requirements.txt
+startCommand:
+  type: stdio
+  command: python
+  args:
+  - server.py
+long_description: Unlock a world of television with the TV Maze MCP server. Effortlessly
+  search for shows by name or dive deep into specific show details using our intuitive
+  APIs. Perfect for developers, media enthusiasts, and anyone looking to explore the
+  vast landscape of television. Enjoy the convenience of zero authentication, making
+  it easy to integrate into your applications. Whether you're creating a TV guide
+  app or researching your next binge-watch, we've got you covered.
+category: utilities
+categories:
+- utilities
+- tv
+- shows
+- episodes
+tags:
+- tv
+- shows
+- episodes
+- search
+- api
+- entertainment
+- media
+pricing:
+  protocol: x402
+  network: base
+  recipient: '0x170b522a5e2c75AF546C57c9739Aa3583836D908'
+  asset: usdc
+  tools:
+  - name: search_shows
+    price: '0'
+  - name: get_show
+    price: '0.01'
+  - name: health_check
+    price: '0'

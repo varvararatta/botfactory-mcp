@@ -1,0 +1,7 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "varvararatta"
+  ],
+  "description": "Need to convert currencies on the fly? Our Instant Currency Converter uses live rates from the ECB, ensuring you get the most accurate conversions. Ideal for travelers, online shoppers, and businesses operating globally, this tool is both fast and reliable. With no authentication required and a simple API call, you can easily integrate currency conversion into your applications or websites. Start converting today and make informed financial decisions effortlessly!"
+}

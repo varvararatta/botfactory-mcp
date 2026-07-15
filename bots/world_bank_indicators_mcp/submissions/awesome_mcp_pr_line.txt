@@ -1,0 +1,1 @@
+- [World Bank Indicators Mcp](https://world-bank-indicators-mcp.mcpize.run) — Dive into the wealth of information provided by the World Bank with our zero-auth API

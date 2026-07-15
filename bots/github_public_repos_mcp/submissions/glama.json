@@ -1,0 +1,7 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "varvararatta"
+  ],
+  "description": "Dive into the world of open-source with the GitHub Repo Explorer! Utilize the powerful GitHub public REST API to get detailed metadata about any public repository or search for repositories that match your interests. Developers, researchers, and businesses can leverage this tool to discover new projects, analyze coding trends, or find collaborators. Perfect for anyone looking to tap into the vast ecosystem of GitHub without the hassle of authentication."
+}

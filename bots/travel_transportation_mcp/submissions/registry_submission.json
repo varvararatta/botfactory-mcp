@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.varvararatta/travel_transportation_mcp",
+  "title": "Travel Transportation Mcp",
+  "description": "Travel smarter with real-time insights on countries, weather, and currency conversions. Use our",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/varvararatta/botfactory-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://travel-transportation-mcp.mcpize.run/mcp"
+    }
+  ]
+}

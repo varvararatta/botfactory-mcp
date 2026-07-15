@@ -1,0 +1,7 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "varvararatta"
+  ],
+  "description": "Discover the best prices in Ukrainian e-commerce with our powerful price tracker. Use the 'search_rozetka' and 'search_olx' APIs to find products and listings instantly. Compare prices across platforms with 'compare_prices' to ensure you get the best deal. Perfect for savvy shoppers, resellers, and market analysts looking to stay ahead of the competition."
+}

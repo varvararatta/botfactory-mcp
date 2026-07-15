@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.varvararatta/earthquake_monitor_mcp",
+  "title": "Earthquake Monitor Mcp",
+  "description": "Our Earthquake Monitor harnesses the USGS earthquake feed to provide you with up-to-the-minute",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/varvararatta/botfactory-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://earthquake-monitor-mcp.mcpize.run/mcp"
+    }
+  ]
+}

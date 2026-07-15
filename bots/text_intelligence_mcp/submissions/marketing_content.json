@@ -1,0 +1,24 @@
+{
+  "display_name": "Text Intelligence Hub",
+  "short_description": "Harness NLP power without the hassle!",
+  "long_description": "Unleash the potential of your text data with Text Intelligence. Our pure Python NLP tools allow you to detect language, analyze sentiment, extract keywords, and summarize text effortlessly. Businesses, researchers, and developers will find immense value in our user-friendly APIs that require no authentication or external dependencies. Perfect for content creators and marketers looking to enhance their text analysis capabilities.",
+  "seo_title": "Powerful NLP Tools with Zero Hassle",
+  "seo_description": "Explore Text Intelligence for language detection, sentiment analysis, and more. No auth needed!",
+  "tags": [
+    "nlp",
+    "text analysis",
+    "language detection",
+    "sentiment",
+    "keywords",
+    "summarization"
+  ],
+  "marketplace_review": "Text Intelligence empowers users with seamless NLP tools. Its straightforward API and no-auth requirement make it a go-to choice for quick text analysis.",
+  "awesome_one_liner": "Effortless NLP insights at your fingertips!",
+  "demo_tool": "detect_language",
+  "_meta": {
+    "model": "gpt-4o-mini",
+    "cost_usd": 0.0002
+  },
+  "bot_name": "text_intelligence_mcp",
+  "generated_at": "2026-07-09T06:59:28"
+}

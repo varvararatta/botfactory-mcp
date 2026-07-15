@@ -1,0 +1,26 @@
+{
+  "display_name": "GitHub Repo Explorer",
+  "short_description": "Uncover valuable metadata from public GitHub repositories effortlessly!",
+  "long_description": "Dive into the world of open-source with the GitHub Repo Explorer! Utilize the powerful GitHub public REST API to get detailed metadata about any public repository or search for repositories that match your interests. Developers, researchers, and businesses can leverage this tool to discover new projects, analyze coding trends, or find collaborators. Perfect for anyone looking to tap into the vast ecosystem of GitHub without the hassle of authentication.",
+  "seo_title": "Explore Public GitHub Repositories Easily",
+  "seo_description": "Access public GitHub repository metadata and search repositories without any authentication. Perfect for developers and researchers!",
+  "tags": [
+    "github",
+    "public repos",
+    "api",
+    "metadata",
+    "open source",
+    "developers",
+    "search",
+    "repositories"
+  ],
+  "marketplace_review": "The GitHub Repo Explorer is an invaluable tool for developers and researchers alike. Its ease of use and zero authentication requirement make it a must-have for anyone looking to explore the vast world of public GitHub repositories.",
+  "awesome_one_liner": "Discover and analyze public GitHub repositories effortlessly!",
+  "demo_tool": "search_repositories",
+  "_meta": {
+    "model": "gpt-4o-mini",
+    "cost_usd": 0.000212
+  },
+  "bot_name": "github_public_repos_mcp",
+  "generated_at": "2026-07-09T07:23:42"
+}

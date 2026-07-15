@@ -1,0 +1,1 @@
+- [Github Public Repos Mcp](https://github-public-repos-mcp.mcpize.run) — Dive into the world of open-source with the GitHub Repo Explorer! Utilize the powerful GitHub public REST API to get detailed metadata about any public repository or search for repositories that match your interests

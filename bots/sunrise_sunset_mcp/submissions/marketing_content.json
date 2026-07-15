@@ -1,0 +1,26 @@
+{
+  "display_name": "Sunrise & Sunset Times",
+  "short_description": "Unlock the secrets of daylight with precise sun timings!",
+  "long_description": "Discover the magic of day and night with our Sunrise & Sunset API. Get accurate sunrise, sunset, and twilight times for any location worldwide using coordinates or city names. Perfect for photographers seeking the golden hour, travelers planning their adventures, or anyone curious about the rhythm of nature. With zero authentication required, accessing astronomical data has never been easier. Start planning your outdoor activities with confidence today!",
+  "seo_title": "Accurate Sunrise & Sunset API",
+  "seo_description": "Get precise sunrise, sunset, and twilight times for any location easily. Perfect for photographers and adventurers!",
+  "tags": [
+    "sunrise",
+    "sunset",
+    "astronomy",
+    "api",
+    "sun_times",
+    "outdoor",
+    "photography",
+    "geolocation"
+  ],
+  "marketplace_review": "The Sunrise & Sunset API is a game-changer for outdoor enthusiasts! With accurate times at your fingertips, you can plan your activities around the best light. Highly recommended for photographers and travelers alike!",
+  "awesome_one_liner": "Get precise sunrise & sunset times for any location!",
+  "demo_tool": "sun_times_for_city",
+  "_meta": {
+    "model": "gpt-4o-mini",
+    "cost_usd": 0.000214
+  },
+  "bot_name": "sunrise_sunset_mcp",
+  "generated_at": "2026-07-09T07:23:29"
+}

@@ -1,0 +1,1 @@
+- [Security Mcp](https://security-mcp.mcpize.run) — With security_mcp, developers can easily identify vulnerabilities in their applications using the OSV

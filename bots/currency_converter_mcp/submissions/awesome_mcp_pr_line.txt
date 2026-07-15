@@ -1,0 +1,1 @@
+- [Currency Converter Mcp](https://currency-converter-mcp.mcpize.run) — Need to convert currencies on the fly? Our Instant Currency Converter uses live rates from the ECB, ensuring you get the most accurate conversions

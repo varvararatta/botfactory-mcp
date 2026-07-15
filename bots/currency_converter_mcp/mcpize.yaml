@@ -1,0 +1,49 @@
+# MCPize manifest - https://mcpize.com
+version: 1
+name: currency_converter_mcp
+description: Convert currencies instantly with live rates at your fingertips!
+runtime: python
+entry: server.py
+build:
+  install: pip install -r requirements.txt
+startCommand:
+  type: stdio
+  command: python
+  args:
+  - server.py
+long_description: Need to convert currencies on the fly? Our Instant Currency Converter
+  uses live rates from the ECB, ensuring you get the most accurate conversions. Ideal
+  for travelers, online shoppers, and businesses operating globally, this tool is
+  both fast and reliable. With no authentication required and a simple API call, you
+  can easily integrate currency conversion into your applications or websites. Start
+  converting today and make informed financial decisions effortlessly!
+category: finance
+categories:
+- finance
+- currency
+- converter
+- live rates
+tags:
+- currency
+- converter
+- live rates
+- financial tools
+- API
+- ECB
+- travel
+pricing:
+  protocol: x402
+  network: base
+  recipient: '0x170b522a5e2c75AF546C57c9739Aa3583836D908'
+  asset: usdc
+  tools:
+  - name: convert
+    price: '0.01'
+  - name: get_rates
+    price: '0.01'
+  - name: get_history
+    price: '0.01'
+  - name: list_currencies
+    price: '0'
+  - name: health_check
+    price: '0'

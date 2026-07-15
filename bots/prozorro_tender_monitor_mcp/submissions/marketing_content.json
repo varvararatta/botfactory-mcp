@@ -1,0 +1,26 @@
+{
+  "display_name": "Prozorro Tender Monitor",
+  "short_description": "Unlock real-time insights into Ukrainian public tenders.",
+  "long_description": "Stay ahead in the competitive landscape of Ukrainian public procurement with our Prozorro Tender Monitor. Effortlessly search for tenders using keywords, access detailed tender information, and keep track of recent modifications. Ideal for businesses, contractors, and consultants looking to secure lucrative government contracts. Leverage our APIs and gain a strategic advantage in navigating the Prozorro system.",
+  "seo_title": "Prozorro Tender Monitor - Real-Time Insights",
+  "seo_description": "Discover and monitor Ukrainian public tenders with real-time insights. Search, track, and win tenders effortlessly.",
+  "tags": [
+    "prozorro",
+    "tender",
+    "monitor",
+    "procurement",
+    "ukrainian",
+    "government",
+    "insights",
+    "api"
+  ],
+  "marketplace_review": "The Prozorro Tender Monitor offers unparalleled access to Ukrainian public tenders. With its intuitive API tools, users can efficiently search and track opportunities, making it essential for procurement professionals.",
+  "awesome_one_liner": "Your gateway to Ukrainian tender insights, real-time and ready.",
+  "demo_tool": "search_tenders",
+  "_meta": {
+    "model": "gpt-4o-mini",
+    "cost_usd": 0.000219
+  },
+  "bot_name": "prozorro_tender_monitor_mcp",
+  "generated_at": "2026-07-09T06:55:40"
+}

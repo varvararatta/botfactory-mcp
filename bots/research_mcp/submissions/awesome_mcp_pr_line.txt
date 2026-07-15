@@ -1,0 +1,1 @@
+- [Research Mcp](https://research-mcp.mcpize.run) — Dive into a vast collection of over 250 million academic papers with the OpenAlex API! Whether you're a student, researcher, or academic professional, this tool simplifies your literature search, making it easy to find relevant papers for your projects

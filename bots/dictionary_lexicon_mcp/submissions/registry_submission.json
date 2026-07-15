@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.varvararatta/dictionary_lexicon_mcp",
+  "title": "Dictionary Lexicon Mcp",
+  "description": "Discover the true meaning of any English word with our Dictionary Lexicon MCP. Whether you're a",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/varvararatta/botfactory-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://dictionary-lexicon-mcp.mcpize.run/mcp"
+    }
+  ]
+}

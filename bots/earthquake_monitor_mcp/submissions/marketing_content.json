@@ -1,0 +1,25 @@
+{
+  "display_name": "Earthquake Monitoring Hub",
+  "short_description": "Stay updated with real-time earthquake data at your fingertips.",
+  "long_description": "Our Earthquake Monitor harnesses the USGS earthquake feed to provide you with up-to-the-minute information on recent seismic activities. Perfect for researchers, safety agencies, and anyone interested in global seismic events, you can filter earthquakes by magnitude and timeframe. With tools to list recent quakes and highlight significant ones, it’s an essential resource for disaster preparedness and awareness. Monitor the earth's movements effortlessly and stay informed wherever you are.",
+  "seo_title": "Real-Time Earthquake Monitoring Tool",
+  "seo_description": "Get real-time earthquake updates with our USGS-powered monitor. Filter by magnitude and report significant quakes easily.",
+  "tags": [
+    "earthquake",
+    "monitoring",
+    "USGS",
+    "real-time",
+    "data",
+    "safety",
+    "research"
+  ],
+  "marketplace_review": "The Earthquake Monitoring Hub is a must-have for anyone needing timely seismic data. Its easy-to-use tools allow for quick access to recent and significant quakes.",
+  "awesome_one_liner": "Monitor seismic activity in real-time with ease!",
+  "demo_tool": "list_recent_quakes",
+  "_meta": {
+    "model": "gpt-4o-mini",
+    "cost_usd": 0.000204
+  },
+  "bot_name": "earthquake_monitor_mcp",
+  "generated_at": "2026-07-09T07:22:36"
+}

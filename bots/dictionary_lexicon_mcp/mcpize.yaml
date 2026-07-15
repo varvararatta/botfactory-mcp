@@ -1,0 +1,44 @@
+# MCPize manifest - https://mcpize.com
+version: 1
+name: dictionary_lexicon_mcp
+description: Unlock the power of words with instant definitions and synonyms!
+runtime: python
+entry: server.py
+build:
+  install: pip install -r requirements.txt
+startCommand:
+  type: stdio
+  command: python
+  args:
+  - server.py
+long_description: Discover the true meaning of any English word with our Dictionary
+  Lexicon MCP. Whether you're a student needing definitions for your assignments or
+  a writer seeking the perfect synonym, this tool is designed for you. Easily access
+  phonetics and examples to enhance your vocabulary. With zero authentication required,
+  just call our API and start exploring the richness of the English language today!
+category: utilities
+categories:
+- utilities
+- dictionary
+- lexicon
+- api
+tags:
+- dictionary
+- lexicon
+- api
+- definitions
+- synonyms
+- english
+- vocabulary
+pricing:
+  protocol: x402
+  network: base
+  recipient: '0x170b522a5e2c75AF546C57c9739Aa3583836D908'
+  asset: usdc
+  tools:
+  - name: define_word
+    price: '0.01'
+  - name: list_synonyms
+    price: '0'
+  - name: health_check
+    price: '0'

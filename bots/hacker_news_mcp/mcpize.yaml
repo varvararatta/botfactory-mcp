@@ -1,0 +1,45 @@
+# MCPize manifest - https://mcpize.com
+version: 1
+name: hacker_news_mcp
+description: Stay updated with the hottest tech stories from Hacker News!
+runtime: python
+entry: server.py
+build:
+  install: pip install -r requirements.txt
+startCommand:
+  type: stdio
+  command: python
+  args:
+  - server.py
+long_description: Dive into the latest and greatest from the tech world with our Hacker
+  News MCP server. Effortlessly list the top 20 stories and fetch detailed information
+  about any story or comment using our simple APIs. Ideal for developers, tech enthusiasts,
+  and content creators looking to integrate trending news into their applications.
+  With zero authentication required, accessing real-time insights has never been easier.
+  Start building today and keep your audience informed!
+category: utilities
+categories:
+- utilities
+- hacker news
+- api
+- tech stories
+tags:
+- hacker news
+- api
+- tech stories
+- news aggregator
+- firebase
+- developer tools
+- real-time
+pricing:
+  protocol: x402
+  network: base
+  recipient: '0x170b522a5e2c75AF546C57c9739Aa3583836D908'
+  asset: usdc
+  tools:
+  - name: list_top_stories
+    price: '0'
+  - name: get_item
+    price: '0.01'
+  - name: health_check
+    price: '0'

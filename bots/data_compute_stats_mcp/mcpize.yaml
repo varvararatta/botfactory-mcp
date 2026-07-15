@@ -1,0 +1,65 @@
+# MCPize manifest - https://mcpize.com
+version: 1
+name: data_compute_stats_mcp
+description: Unlock powerful computations at your fingertips.
+runtime: container
+entry: server.py
+build:
+  dockerfile: Dockerfile
+startCommand:
+  type: http
+tools:
+- name: health_check
+  description: Server health check.
+- name: calculate_statistics
+  description: 'Calculate descriptive statistics for a list of numbers. Returns: {mean,
+    median, std_dev, min, max, sum, count, percentiles}'
+- name: calculate_irr
+  description: 'Calculate Internal Rate of Return (IRR) for cashflows. cashflows:
+    [initial_investment (negative), cf1, cf2, ...] Returns: {irr_percent}'
+- name: calculate_npv
+  description: 'Calculate Net Present Value. rate: discount rate as decimal (e.g.
+    0.1 = 10%). Returns: {npv, rate_percent, cashflows_count}'
+- name: convert_units
+  description: 'Convert between units. Supports: length, weight, temperature, area,
+    volume. Returns: {result, from_unit, to_unit, formula}'
+- name: get_exchange_rates
+  description: 'Get current exchange rates from NBU (Ukraine National Bank) — no API
+    key needed. Returns: {rates, base, date, source}'
+long_description: Dive into a suite of pure Python tools designed for precise mathematical
+  computations and insightful statistics. From calculating IRR and NPV for financial
+  projects to converting units seamlessly, this MCP server caters to your analytical
+  needs. Whether you're a data analyst, financial expert, or student, you’ll find
+  reliable results for your calculations without any authentication barriers. Access
+  live currency exchange rates directly from the National Bank of Ukraine to stay
+  updated!
+category: finance
+categories:
+- finance
+- data
+- statistics
+tags:
+- data
+- statistics
+- finance
+- currency
+- calculations
+- python
+pricing:
+  protocol: x402
+  network: base
+  recipient: '0x170b522a5e2c75AF546C57c9739Aa3583836D908'
+  asset: usdc
+  tools:
+  - name: health_check
+    price: '0'
+  - name: calculate_statistics
+    price: '0.01'
+  - name: calculate_irr
+    price: '0.01'
+  - name: calculate_npv
+    price: '0.01'
+  - name: convert_units
+    price: '0.01'
+  - name: get_exchange_rates
+    price: '0.01'

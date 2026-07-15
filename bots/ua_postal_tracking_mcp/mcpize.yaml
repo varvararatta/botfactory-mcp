@@ -1,0 +1,27 @@
+# MCPize manifest - https://mcpize.com
+version: 1
+name: ua_postal_tracking_mcp
+description: Effortlessly track your Nova Poshta shipments in real time.
+runtime: python
+entry: server.py
+build:
+  install: pip install -r requirements.txt
+startCommand:
+  type: stdio
+  command: python
+  args:
+  - server.py
+pricing:
+  protocol: x402
+  network: base
+  recipient: '0x170b522a5e2c75AF546C57c9739Aa3583836D908'
+  asset: usdc
+  tools:
+  - name: track_shipment
+    price: '0.01'
+  - name: find_warehouse
+    price: '0'
+  - name: get_delivery_cost
+    price: '0.01'
+  - name: health_check
+    price: '0'

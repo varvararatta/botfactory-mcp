@@ -1,0 +1,44 @@
+# MCPize manifest - https://mcpize.com
+version: 1
+name: air_quality_mcp
+description: Stay ahead of pollution with real-time air quality data.
+runtime: python
+entry: server.py
+build:
+  install: pip install -r requirements.txt
+startCommand:
+  type: stdio
+  command: python
+  args:
+  - server.py
+long_description: Discover the air quality around you with our easy-to-use APIs. Whether
+  you're planning outdoor activities or just want to know the air quality in your
+  city, our service provides accurate metrics like European AQI and PM2.5/PM10 levels.
+  Use the geocoding feature to search for air quality by city name, making it perfect
+  for travelers and health-conscious individuals. Ideal for environmental researchers,
+  city planners, and anyone interested in maintaining a healthy lifestyle.
+category: utilities
+categories:
+- utilities
+- air quality
+- pollution
+- environment
+tags:
+- air quality
+- pollution
+- environment
+- health
+- API
+- data
+pricing:
+  protocol: x402
+  network: base
+  recipient: '0x170b522a5e2c75AF546C57c9739Aa3583836D908'
+  asset: usdc
+  tools:
+  - name: health_check
+    price: '0'
+  - name: get_air_quality
+    price: '0.01'
+  - name: search_city_air
+    price: '0'

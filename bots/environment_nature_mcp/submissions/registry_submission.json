@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.varvararatta/environment_nature_mcp",
+  "title": "Environment Nature Mcp",
+  "description": "Unlock the power of real-time environmental data with our cutting-edge APIs. Whether you're a",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/varvararatta/botfactory-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://environment-nature-mcp.mcpize.run/mcp"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+# MCPize manifest - https://mcpize.com
+version: 1
+name: education_mcp
+description: Unleash your learning potential with curated educational content.
+runtime: container
+entry: server.py
+build:
+  dockerfile: Dockerfile
+startCommand:
+  type: http
+long_description: Dive deep into educational topics through comprehensive resources
+  from Wikipedia and Open Library. Whether you're a student seeking quick info or
+  a lifelong learner wanting structured reading lists, our dual-source research MCP
+  simplifies your search. With zero authentication required, you can instantly access
+  summaries, articles, and books, allowing you to enhance your knowledge and understanding
+  on a variety of subjects. Perfect for educators, students, and curious minds alike!
+category: education
+categories:
+- education
+- wikipedia
+- open-library
+tags:
+- education
+- wikipedia
+- open-library
+- reading-lists
+- research
+- learning
+- knowledge
+tools:
+- name: search_wikipedia
+  description: 'Search Wikipedia articles for educational content. Returns: {results:
+    [{title, snippet, url}]}'
+- name: get_article_summary
+  description: 'Get Wikipedia article summary/extract by title. Returns: {title, extract,
+    url}'
+- name: search_open_library
+  description: 'Search Open Library for books and educational materials. Returns:
+    {books: [{title, author, year, key}]}'
+- name: build_reading_list
+  description: 'Build a structured reading list for a topic — Wikipedia articles +
+    Open Library books. Returns: {topic, articles: [{title, extract, url}], books:
+    [{title, author, year, url}]}'
+- name: health_check
+  description: Server health check.
+pricing:
+  protocol: x402
+  network: base
+  recipient: '0x170b522a5e2c75AF546C57c9739Aa3583836D908'
+  asset: usdc
+  tools:
+  - name: search_wikipedia
+    price: '0'
+  - name: get_article_summary
+    price: '0.01'
+  - name: search_open_library
+    price: '0'
+  - name: build_reading_list
+    price: '0.01'
+  - name: health_check
+    price: '0'

@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.varvararatta/name_demographics_mcp",
+  "title": "Name Demographics Mcp",
+  "description": "Harness the power of names with our Name Demographics MCP. Using Agify, Genderize, and Nationalize",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/varvararatta/botfactory-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://name-demographics-mcp.mcpize.run/mcp"
+    }
+  ]
+}

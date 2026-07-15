@@ -1,0 +1,1 @@
+- [Crypto Prices Mcp](https://crypto-prices-mcp.mcpize.run) — Unlock the power of real-time cryptocurrency data with our Crypto Price Insights MCP server

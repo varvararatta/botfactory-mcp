@@ -1,0 +1,7 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "varvararatta"
+  ],
+  "description": "Unlock a world of television with the TV Maze MCP server. Effortlessly search for shows by name or dive deep into specific show details using our intuitive APIs. Perfect for developers, media enthusiasts, and anyone looking to explore the vast landscape of television. Enjoy the convenience of zero authentication, making it easy to integrate into your applications. Whether you're creating a TV guide app or researching your next binge-watch, we've got you covered."
+}

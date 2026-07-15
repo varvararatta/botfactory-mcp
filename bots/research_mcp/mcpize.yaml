@@ -1,0 +1,47 @@
+# MCPize manifest - https://mcpize.com
+version: 1
+name: research_mcp
+description: Unlock the power of 250M+ research papers today!
+runtime: python
+entry: server.py
+build:
+  install: pip install -r requirements.txt
+startCommand:
+  type: stdio
+  command: python
+  args:
+  - server.py
+long_description: Dive into a vast collection of over 250 million academic papers
+  with the OpenAlex API! Whether you're a student, researcher, or academic professional,
+  this tool simplifies your literature search, making it easy to find relevant papers
+  for your projects. Use it to gather insights, support your thesis, or explore new
+  disciplines. The API is designed for seamless integration, enabling quick and efficient
+  access to a wealth of information.
+category: education
+categories:
+- education
+- research
+- academic
+- papers
+tags:
+- research
+- academic
+- papers
+- API
+- OpenAlex
+- literature
+- exploration
+pricing:
+  protocol: x402
+  network: base
+  recipient: '0x170b522a5e2c75AF546C57c9739Aa3583836D908'
+  asset: usdc
+  tools:
+  - name: search_papers
+    price: '0'
+  - name: get_paper
+    price: '0.01'
+  - name: list_papers_by_author
+    price: '0'
+  - name: health_check
+    price: '0'

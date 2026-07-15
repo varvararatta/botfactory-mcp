@@ -1,0 +1,46 @@
+# MCPize manifest - https://mcpize.com
+version: 1
+name: earthquake_monitor_mcp
+description: Stay updated with real-time earthquake data at your fingertips.
+runtime: python
+entry: server.py
+build:
+  install: pip install -r requirements.txt
+startCommand:
+  type: stdio
+  command: python
+  args:
+  - server.py
+long_description: Our Earthquake Monitor harnesses the USGS earthquake feed to provide
+  you with up-to-the-minute information on recent seismic activities. Perfect for
+  researchers, safety agencies, and anyone interested in global seismic events, you
+  can filter earthquakes by magnitude and timeframe. With tools to list recent quakes
+  and highlight significant ones, it’s an essential resource for disaster preparedness
+  and awareness. Monitor the earth's movements effortlessly and stay informed wherever
+  you are.
+category: education
+categories:
+- education
+- earthquake
+- monitoring
+- USGS
+tags:
+- earthquake
+- monitoring
+- USGS
+- real-time
+- data
+- safety
+- research
+pricing:
+  protocol: x402
+  network: base
+  recipient: '0x170b522a5e2c75AF546C57c9739Aa3583836D908'
+  asset: usdc
+  tools:
+  - name: list_recent_quakes
+    price: '0'
+  - name: significant_quakes
+    price: '0.01'
+  - name: health_check
+    price: '0'

@@ -1,0 +1,7 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "varvararatta"
+  ],
+  "description": "Dive into the wealth of information provided by the World Bank with our zero-auth API. Instantly retrieve a list of countries or access specific economic indicators like GDP for any nation using just the country code. Ideal for researchers, economists, and developers looking to integrate key global data points into their applications or analyses. With a minimal cost per API call, accessing vital statistics has never been easier or more affordable."
+}

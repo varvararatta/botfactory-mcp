@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.varvararatta/github_public_repos_mcp",
+  "title": "Github Public Repos Mcp",
+  "description": "Dive into the world of open-source with the GitHub Repo Explorer! Utilize the powerful GitHub",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/varvararatta/botfactory-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://github-public-repos-mcp.mcpize.run/mcp"
+    }
+  ]
+}

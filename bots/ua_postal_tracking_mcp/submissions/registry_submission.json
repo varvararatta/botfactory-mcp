@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.varvararatta/ua_postal_tracking_mcp",
+  "title": "Ua Postal Tracking Mcp",
+  "description": "Stay updated on your shipments with our Ukrainian postal tracking tool for Nova Poshta. Use the",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/varvararatta/botfactory-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://ua-postal-tracking-mcp.mcpize.run/mcp"
+    }
+  ]
+}

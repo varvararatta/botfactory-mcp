@@ -1,0 +1,57 @@
+# MCPize manifest - https://mcpize.com
+version: 1
+name: travel_transportation_mcp
+description: Unlock essential travel data at your fingertips!
+runtime: container
+entry: server.py
+build:
+  dockerfile: Dockerfile
+startCommand:
+  type: http
+long_description: Travel smarter with real-time insights on countries, weather, and
+  currency conversions. Use our APIs to get up-to-date information on capital cities,
+  climate conditions, and budget management. Whether you're a globetrotter planning
+  your next adventure or a travel agent seeking accurate details, our tools empower
+  you to make informed decisions effortlessly. No authentication is required, making
+  access seamless and fast.
+category: finance
+categories:
+- finance
+- travel
+- weather
+- currency
+tags:
+- travel
+- weather
+- currency
+- country info
+- transportation
+- budgeting
+- real-time
+- API
+tools:
+- name: get_country_info
+  description: 'Get travel country facts: capital, region, income level via World
+    Bank API. code: ISO 3166-1 alpha-2 (US, FR, UA). Returns country profile fields.'
+- name: get_weather
+  description: 'Get current weather for a city worldwide via Open-Meteo + OSM geocoding.
+    Returns: {city, lat, lon, temperature_c, windspeed_kmh, weather_code}'
+- name: convert_travel_currency
+  description: 'Convert travel budget between currencies using live Frankfurter rates.
+    Returns: {amount, from, to, result, rate, date}'
+- name: health_check
+  description: Server health check.
+pricing:
+  protocol: x402
+  network: base
+  recipient: '0x170b522a5e2c75AF546C57c9739Aa3583836D908'
+  asset: usdc
+  tools:
+  - name: get_country_info
+    price: '0.01'
+  - name: get_weather
+    price: '0.01'
+  - name: convert_travel_currency
+    price: '0.01'
+  - name: health_check
+    price: '0'

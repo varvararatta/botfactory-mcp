@@ -1,0 +1,26 @@
+{
+  "display_name": "Global Translation Hub",
+  "short_description": "Break language barriers effortlessly! Translate in 100+ languages.",
+  "long_description": "Unlock the power of communication with our Global Translation Hub! Seamlessly translate text between over 100 languages using our robust MyMemory API. Whether you're a business looking to reach international customers, a traveler needing quick translations, or a developer integrating multilingual support into your apps, our service is designed for you. Enjoy precision and speed with our batch_translate tool for bulk translations. Start your journey with a free health check to assess your translation needs!",
+  "seo_title": "Effortless Translation in 100+ Languages",
+  "seo_description": "Translate text effortlessly in over 100 languages with our MyMemory-based service. Perfect for businesses, travelers, and developers!",
+  "tags": [
+    "translation",
+    "multilingual",
+    "api",
+    "localization",
+    "text-translation",
+    "international",
+    "business",
+    "travel"
+  ],
+  "marketplace_review": "The Global Translation Hub is an essential tool for anyone needing fast and accurate translations. With support for over 100 languages, it's perfect for businesses and travelers alike. The batch translation feature is a game-changer for efficiency!",
+  "awesome_one_liner": "Translate the world: 100+ languages at your fingertips!",
+  "demo_tool": "translate",
+  "_meta": {
+    "model": "gpt-4o-mini",
+    "cost_usd": 0.00022
+  },
+  "bot_name": "translation_services_mcp",
+  "generated_at": "2026-07-09T07:00:03"
+}

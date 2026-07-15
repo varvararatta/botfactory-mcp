@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.varvararatta/hacker_news_mcp",
+  "title": "Hacker News Mcp",
+  "description": "Dive into the latest and greatest from the tech world with our Hacker News MCP server.",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/varvararatta/botfactory-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://hacker-news-mcp.mcpize.run/mcp"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "display_name": "Swift DNS Lookup",
+  "short_description": "Get fast and reliable DNS resolutions with ease!",
+  "long_description": "Unlock the power of DNS lookups with our DNS Lookup service using Google DNS-over-HTTPS. Whether you're a developer needing quick DNS resolutions for A, AAAA, MX, TXT, CNAME, or NS records, or a business ensuring your domain configurations are correct, this tool has you covered. With zero authentication required, it’s perfect for anyone needing instant results. Enjoy a health check feature for free to keep your service running smoothly.",
+  "seo_title": "Quick and Reliable DNS Lookup Tool",
+  "seo_description": "Utilize our DNS Lookup service for fast, reliable DNS resolutions via Google DNS-over-HTTPS without authentication.",
+  "tags": [
+    "dns",
+    "lookup",
+    "google",
+    "https",
+    "records",
+    "api",
+    "developer"
+  ],
+  "marketplace_review": "Swift DNS Lookup is a game-changer for developers and businesses alike. With its fast response time and support for multiple DNS record types, it simplifies the process of DNS management. The zero-authentication access makes it user-friendly and efficient for all your DNS needs.",
+  "awesome_one_liner": "Effortless DNS lookups with Google DNS-over-HTTPS!",
+  "demo_tool": "resolve_dns",
+  "_meta": {
+    "model": "gpt-4o-mini",
+    "cost_usd": 0.000214
+  },
+  "bot_name": "dns_lookup_mcp",
+  "generated_at": "2026-07-09T07:22:30"
+}

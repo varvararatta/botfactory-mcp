@@ -1,0 +1,25 @@
+{
+  "display_name": "Name Insights Unleashed",
+  "short_description": "Unlock the secrets of names – predict age, gender, and nationality effortlessly!",
+  "long_description": "Harness the power of names with our Name Demographics MCP. Using Agify, Genderize, and Nationalize APIs, you can predict age, gender, and nationality from first names with zero authentication. Ideal for marketers, researchers, and developers, this tool allows you to tailor your strategies based on demographic insights. Whether analyzing user data or personalizing content, our APIs provide accurate predictions to enhance your decision-making process.",
+  "seo_title": "Discover Age, Gender, Nationality by Name",
+  "seo_description": "Predict age, gender, and nationality from first names using our powerful APIs. Perfect for marketers and developers!",
+  "tags": [
+    "name demographics",
+    "age prediction",
+    "gender prediction",
+    "nationality prediction",
+    "data analysis",
+    "APIs",
+    "user insights"
+  ],
+  "marketplace_review": "Name Demographics MCP offers invaluable insights into the characteristics of names. With its easy-to-use APIs, you can quickly gain a deeper understanding of your audience.",
+  "awesome_one_liner": "Predict demographics from names in a snap!",
+  "demo_tool": "predict_age",
+  "_meta": {
+    "model": "gpt-4o-mini",
+    "cost_usd": 0.000209
+  },
+  "bot_name": "name_demographics_mcp",
+  "generated_at": "2026-07-09T07:23:21"
+}

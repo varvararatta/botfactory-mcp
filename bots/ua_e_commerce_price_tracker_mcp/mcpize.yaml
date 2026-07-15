@@ -1,0 +1,27 @@
+# MCPize manifest - https://mcpize.com
+version: 1
+name: ua_e_commerce_price_tracker_mcp
+description: Track and compare prices from Rozetka and OLX effortlessly!
+runtime: python
+entry: server.py
+build:
+  install: pip install -r requirements.txt
+startCommand:
+  type: stdio
+  command: python
+  args:
+  - server.py
+pricing:
+  protocol: x402
+  network: base
+  recipient: '0x170b522a5e2c75AF546C57c9739Aa3583836D908'
+  asset: usdc
+  tools:
+  - name: search_rozetka
+    price: '0'
+  - name: search_olx
+    price: '0'
+  - name: compare_prices
+    price: '0.01'
+  - name: health_check
+    price: '0'

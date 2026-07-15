@@ -1,0 +1,46 @@
+# MCPize manifest - https://mcpize.com
+version: 1
+name: sunrise_sunset_mcp
+description: Unlock the secrets of daylight with precise sun timings!
+runtime: python
+entry: server.py
+build:
+  install: pip install -r requirements.txt
+startCommand:
+  type: stdio
+  command: python
+  args:
+  - server.py
+long_description: Discover the magic of day and night with our Sunrise & Sunset API.
+  Get accurate sunrise, sunset, and twilight times for any location worldwide using
+  coordinates or city names. Perfect for photographers seeking the golden hour, travelers
+  planning their adventures, or anyone curious about the rhythm of nature. With zero
+  authentication required, accessing astronomical data has never been easier. Start
+  planning your outdoor activities with confidence today!
+category: utilities
+categories:
+- utilities
+- sunrise
+- sunset
+- astronomy
+tags:
+- sunrise
+- sunset
+- astronomy
+- api
+- sun_times
+- outdoor
+- photography
+- geolocation
+pricing:
+  protocol: x402
+  network: base
+  recipient: '0x170b522a5e2c75AF546C57c9739Aa3583836D908'
+  asset: usdc
+  tools:
+  - name: health_check
+    price: '0'
+  - name: get_sun_times
+    price: '0.01'
+  - name: sun_times_for_city
+    price: '0.01'

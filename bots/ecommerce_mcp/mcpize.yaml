@@ -1,0 +1,47 @@
+# MCPize manifest - https://mcpize.com
+version: 1
+name: ecommerce_mcp
+description: Access 3M+ global products effortlessly with zero authentication!
+runtime: python
+entry: server.py
+build:
+  install: pip install -r requirements.txt
+startCommand:
+  type: stdio
+  command: python
+  args:
+  - server.py
+long_description: Dive into a vast catalog of over 3 million products via Open Food
+  Facts. This powerful tool is perfect for e-commerce businesses, market analysts,
+  and food industry professionals looking to enhance their offerings or conduct comprehensive
+  market research. With zero authentication required, you can quickly integrate product
+  data into your applications, streamline inventory management, or analyze consumer
+  trends. Unlock valuable insights and stay ahead of the competition with ease!
+category: education
+categories:
+- education
+- ecommerce
+- productcatalog
+- openfoodfacts
+tags:
+- ecommerce
+- productcatalog
+- openfoodfacts
+- marketresearch
+- foodindustry
+- dataanalytics
+- insights
+pricing:
+  protocol: x402
+  network: base
+  recipient: '0x170b522a5e2c75AF546C57c9739Aa3583836D908'
+  asset: usdc
+  tools:
+  - name: search_products
+    price: '0'
+  - name: get_product
+    price: '0.01'
+  - name: get_nutrition
+    price: '0.01'
+  - name: health_check
+    price: '0'

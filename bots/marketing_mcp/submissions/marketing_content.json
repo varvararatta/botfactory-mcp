@@ -1,0 +1,23 @@
+{
+  "display_name": "SEO Keyword Insights",
+  "short_description": "Unlock powerful SEO insights with advanced keyword analysis.",
+  "long_description": "Elevate your marketing strategy with our Marketing MCP server. Analyze SEO keywords, extract meta tags, and assess word frequencies to refine your content. Ideal for marketers, content creators, and SEO specialists looking to optimize their online presence. Use our tools to identify high-impact keywords and enhance your site's visibility effortlessly.",
+  "seo_title": "Advanced SEO Tools for Keyword Analysis",
+  "seo_description": "Discover top SEO keywords, extract meta tags, and analyze word frequency to boost your online marketing strategy.",
+  "tags": [
+    "seo",
+    "keywords",
+    "meta tags",
+    "marketing",
+    "analysis"
+  ],
+  "marketplace_review": "This Marketing MCP server offers robust tools for keyword analysis and SEO optimization. Ideal for anyone serious about improving their website's performance and visibility.",
+  "awesome_one_liner": "Transform your marketing with precise SEO keyword insights!",
+  "demo_tool": "analyze_seo_keywords",
+  "_meta": {
+    "model": "gpt-4o-mini",
+    "cost_usd": 0.000187
+  },
+  "bot_name": "marketing_mcp",
+  "generated_at": "2026-07-09T06:55:02"
+}

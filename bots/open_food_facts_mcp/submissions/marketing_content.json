@@ -1,0 +1,25 @@
+{
+  "display_name": "Open Food Facts Lookup",
+  "short_description": "Instantly identify food products with barcodes!",
+  "long_description": "Unlock the power of food transparency with our Open Food Facts MCP server. Easily look up any food product by its barcode and receive vital information like name, brands, and nutri-score. Perfect for developers, health enthusiasts, and anyone curious about what they consume. With zero authentication needed, integration into your applications is seamless and straightforward. Whether you're building health apps or just want to know what’s in your pantry, this tool is for you.",
+  "seo_title": "Open Food Facts Product Lookup API",
+  "seo_description": "Effortlessly discover food products by barcode with Open Food Facts. Access nutrition info and brands quickly!",
+  "tags": [
+    "food",
+    "nutrition",
+    "api",
+    "barcode",
+    "health",
+    "data",
+    "open-source"
+  ],
+  "marketplace_review": "The Open Food Facts MCP server is a game-changer for anyone interested in food transparency. With easy barcode lookups and detailed product info, it's perfect for developers and health-conscious consumers alike. Highly recommended for seamless integration!",
+  "awesome_one_liner": "Discover food products instantly with barcode lookups!",
+  "demo_tool": "get_product",
+  "_meta": {
+    "model": "gpt-4o-mini",
+    "cost_usd": 0.000207
+  },
+  "bot_name": "open_food_facts_mcp",
+  "generated_at": "2026-07-09T07:22:52"
+}

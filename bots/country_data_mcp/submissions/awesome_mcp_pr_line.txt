@@ -1,0 +1,1 @@
+- [Country Data Mcp](https://country-data-mcp.mcpize.run) — Unlock comprehensive country information with ease! Discover capitals, currencies, and neighboring nations using our API

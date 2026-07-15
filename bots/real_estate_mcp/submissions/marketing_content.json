@@ -1,0 +1,26 @@
+{
+  "display_name": "Real Estate Insights",
+  "short_description": "Unlock real estate potential with precise location data.",
+  "long_description": "Dive into the world of real estate with our powerful location intelligence tools. Use OpenStreetMap Nominatim to effortlessly search for property addresses and get accurate geocoding for any location. Gain valuable insights into country market contexts, including population, area, and currency, essential for making informed investment decisions. Ideal for real estate agents, investors, and market analysts looking for reliable data to enhance their property research.",
+  "seo_title": "Real Estate Location Intelligence Tool",
+  "seo_description": "Discover precise geocoding and market context for real estate analysis. Unlock property insights today!",
+  "tags": [
+    "real estate",
+    "geocoding",
+    "location intelligence",
+    "OSM",
+    "market analysis",
+    "property research",
+    "investing",
+    "data"
+  ],
+  "marketplace_review": "Real Estate Insights offers essential tools for property research and market analysis. With precise geocoding and comprehensive country context, it's a must-have for real estate professionals.",
+  "awesome_one_liner": "Unlock real estate potential with precise location data.",
+  "demo_tool": "search_locations",
+  "_meta": {
+    "model": "gpt-4o-mini",
+    "cost_usd": 0.000211
+  },
+  "bot_name": "real_estate_mcp",
+  "generated_at": "2026-07-09T06:57:33"
+}

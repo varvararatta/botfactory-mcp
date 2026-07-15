@@ -1,0 +1,25 @@
+{
+  "display_name": "NPM Package Metadata Explorer",
+  "short_description": "Unlock vital npm package details effortlessly!",
+  "long_description": "Dive into the world of npm with our NPM Package Info MCP. Access crucial metadata about any npm package, including its latest version, description, and homepage—all without authentication. Perfect for developers and teams looking to streamline their workflow by automating package insights. Whether you're searching for a specific package or exploring new libraries, this tool puts essential npm information at your fingertips.",
+  "seo_title": "NPM Package Metadata - Quick Access Tool",
+  "seo_description": "Get npm package metadata easily! Access version, description, and homepage without authentication.",
+  "tags": [
+    "npm",
+    "package",
+    "metadata",
+    "developer",
+    "tool",
+    "api",
+    "search"
+  ],
+  "marketplace_review": "NPM Package Info MCP is a game-changer for developers. It simplifies accessing package metadata, saving time and enhancing productivity. A must-have tool for any npm user!",
+  "awesome_one_liner": "NPM Package Info MCP: Your npm metadata companion!",
+  "demo_tool": "get_package",
+  "_meta": {
+    "model": "gpt-4o-mini",
+    "cost_usd": 0.000189
+  },
+  "bot_name": "npm_package_info_mcp",
+  "generated_at": "2026-07-09T07:23:17"
+}

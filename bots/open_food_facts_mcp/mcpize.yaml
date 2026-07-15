@@ -1,0 +1,45 @@
+# MCPize manifest - https://mcpize.com
+version: 1
+name: open_food_facts_mcp
+description: Instantly identify food products with barcodes!
+runtime: python
+entry: server.py
+build:
+  install: pip install -r requirements.txt
+startCommand:
+  type: stdio
+  command: python
+  args:
+  - server.py
+long_description: Unlock the power of food transparency with our Open Food Facts MCP
+  server. Easily look up any food product by its barcode and receive vital information
+  like name, brands, and nutri-score. Perfect for developers, health enthusiasts,
+  and anyone curious about what they consume. With zero authentication needed, integration
+  into your applications is seamless and straightforward. Whether you're building
+  health apps or just want to know what’s in your pantry, this tool is for you.
+category: utilities
+categories:
+- utilities
+- food
+- nutrition
+- api
+tags:
+- food
+- nutrition
+- api
+- barcode
+- health
+- data
+- open-source
+pricing:
+  protocol: x402
+  network: base
+  recipient: '0x170b522a5e2c75AF546C57c9739Aa3583836D908'
+  asset: usdc
+  tools:
+  - name: health_check
+    price: '0'
+  - name: get_product
+    price: '0.01'
+  - name: search_products
+    price: '0'

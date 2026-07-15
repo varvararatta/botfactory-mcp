@@ -1,0 +1,7 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "varvararatta"
+  ],
+  "description": "Dive deep into educational topics through comprehensive resources from Wikipedia and Open Library. Whether you're a student seeking quick info or a lifelong learner wanting structured reading lists, our dual-source research MCP simplifies your search. With zero authentication required, you can instantly access summaries, articles, and books, allowing you to enhance your knowledge and understanding on a variety of subjects. Perfect for educators, students, and curious minds alike!"
+}

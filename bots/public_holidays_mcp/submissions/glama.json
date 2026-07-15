@@ -1,0 +1,7 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "varvararatta"
+  ],
+  "description": "Streamline your applications with the Global Public Holidays API, offering instant access to holiday data for over 100 countries. Perfect for developers, businesses, and planners seeking accurate holiday information without the hassle of authentication. Use it to enhance calendars, plan marketing campaigns, or manage staffing schedules. With the nager.at API, you can ensure your projects are always up-to-date with the latest public holiday information."
+}

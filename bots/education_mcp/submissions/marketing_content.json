@@ -1,0 +1,25 @@
+{
+  "display_name": "Explore Knowledge Resources",
+  "short_description": "Unleash your learning potential with curated educational content.",
+  "long_description": "Dive deep into educational topics through comprehensive resources from Wikipedia and Open Library. Whether you're a student seeking quick info or a lifelong learner wanting structured reading lists, our dual-source research MCP simplifies your search. With zero authentication required, you can instantly access summaries, articles, and books, allowing you to enhance your knowledge and understanding on a variety of subjects. Perfect for educators, students, and curious minds alike!",
+  "seo_title": "Educational Resource Discovery MCP",
+  "seo_description": "Discover educational content easily using Wikipedia and Open Library. Curate your learning with structured reading lists and articles.",
+  "tags": [
+    "education",
+    "wikipedia",
+    "open-library",
+    "reading-lists",
+    "research",
+    "learning",
+    "knowledge"
+  ],
+  "marketplace_review": "This MCP server is a treasure trove for anyone looking to expand their knowledge. With its seamless access to Wikipedia and Open Library, users can quickly find reliable information and curated reading lists. A must-have for educators and learners!",
+  "awesome_one_liner": "Discover, read, and learn with dual-source educational resources!",
+  "demo_tool": "build_reading_list",
+  "_meta": {
+    "model": "gpt-4o-mini",
+    "cost_usd": 0.000222
+  },
+  "bot_name": "education_mcp",
+  "generated_at": "2026-07-09T06:50:34"
+}

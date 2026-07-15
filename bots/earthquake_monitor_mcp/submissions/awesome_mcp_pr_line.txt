@@ -1,0 +1,1 @@
+- [Earthquake Monitor Mcp](https://earthquake-monitor-mcp.mcpize.run) — Our Earthquake Monitor harnesses the USGS earthquake feed to provide you with up-to-the-minute information on recent seismic activities

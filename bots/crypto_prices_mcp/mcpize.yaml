@@ -1,0 +1,43 @@
+# MCPize manifest - https://mcpize.com
+version: 1
+name: crypto_prices_mcp
+description: Get real-time crypto prices and trends effortlessly!
+runtime: container
+entry: server.py
+build:
+  dockerfile: Dockerfile
+startCommand:
+  type: http
+long_description: Unlock the power of real-time cryptocurrency data with our Crypto
+  Price Insights MCP server. Easily fetch current prices for top coins like Bitcoin
+  and Ethereum in multiple currencies such as USD, EUR, and UAH. Stay ahead in the
+  market by accessing trending coins on CoinGecko, perfect for traders and enthusiasts
+  alike. This server is ideal for developers looking to integrate crypto data into
+  their applications without the hassle of authentication. Enjoy a seamless experience
+  and make informed decisions today!
+category: finance
+categories:
+- finance
+- crypto
+- prices
+- trending
+tags:
+- crypto
+- prices
+- trending
+- coinmarket
+- bitcoin
+- ethereum
+- solana
+pricing:
+  protocol: x402
+  network: base
+  recipient: '0x170b522a5e2c75AF546C57c9739Aa3583836D908'
+  asset: usdc
+  tools:
+  - name: get_price
+    price: '0.01'
+  - name: list_trending
+    price: '0'
+  - name: health_check
+    price: '0'

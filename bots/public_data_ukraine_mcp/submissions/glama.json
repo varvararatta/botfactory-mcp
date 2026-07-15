@@ -1,0 +1,7 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "varvararatta"
+  ],
+  "description": "Unlock real-time insights into Ukraine's economy and public services with our comprehensive data APIs. Get official NBU exchange rates, explore public procurement tenders on Prozorro, and geocode Ukrainian addresses effortlessly. Whether you're a business analyst, researcher, or developer, this server equips you with essential tools to make informed decisions and enhance your projects. Dive into the rich landscape of Ukrainian public data today!"
+}

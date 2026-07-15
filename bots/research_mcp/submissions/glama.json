@@ -1,0 +1,7 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "varvararatta"
+  ],
+  "description": "Dive into a vast collection of over 250 million academic papers with the OpenAlex API! Whether you're a student, researcher, or academic professional, this tool simplifies your literature search, making it easy to find relevant papers for your projects. Use it to gather insights, support your thesis, or explore new disciplines. The API is designed for seamless integration, enabling quick and efficient access to a wealth of information."
+}

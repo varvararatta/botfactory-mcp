@@ -1,0 +1,1 @@
+- [Air Quality Mcp](https://air-quality-mcp.mcpize.run) — Monitor air quality effortlessly with real-time insights!

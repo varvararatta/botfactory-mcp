@@ -1,0 +1,45 @@
+# MCPize manifest - https://mcpize.com
+version: 1
+name: ip_geolocation_mcp
+description: Instantly geolocate any IP address with ease!
+runtime: python
+entry: server.py
+build:
+  install: pip install -r requirements.txt
+startCommand:
+  type: stdio
+  command: python
+  args:
+  - server.py
+long_description: Unlock the power of IP geolocation with our tool! Whether you're
+  a developer needing location data for user analytics or a cybersecurity expert tracking
+  suspicious activity, our service delivers precise information. You can geolocate
+  individual IPs or process batches of up to five addresses in one go. Ideal for businesses,
+  marketers, and security professionals looking to enhance their services with location
+  insights.
+category: utilities
+categories:
+- utilities
+- ip geolocation
+- api
+- location data
+tags:
+- ip geolocation
+- api
+- location data
+- lookup
+- internet security
+- analytics
+- ip address
+pricing:
+  protocol: x402
+  network: base
+  recipient: '0x170b522a5e2c75AF546C57c9739Aa3583836D908'
+  asset: usdc
+  tools:
+  - name: lookup_ip
+    price: '0.01'
+  - name: lookup_batch
+    price: '0.01'
+  - name: health_check
+    price: '0'

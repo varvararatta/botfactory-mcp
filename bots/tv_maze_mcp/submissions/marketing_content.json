@@ -1,0 +1,25 @@
+{
+  "display_name": "TV Show Finder",
+  "short_description": "Discover your favorite TV shows and episodes with ease!",
+  "long_description": "Unlock a world of television with the TV Maze MCP server. Effortlessly search for shows by name or dive deep into specific show details using our intuitive APIs. Perfect for developers, media enthusiasts, and anyone looking to explore the vast landscape of television. Enjoy the convenience of zero authentication, making it easy to integrate into your applications. Whether you're creating a TV guide app or researching your next binge-watch, we've got you covered.",
+  "seo_title": "Search TV Shows and Episodes Easily",
+  "seo_description": "Explore TV shows and episodes effortlessly with our TV Maze MCP. No authentication needed!",
+  "tags": [
+    "tv",
+    "shows",
+    "episodes",
+    "search",
+    "api",
+    "entertainment",
+    "media"
+  ],
+  "marketplace_review": "TV Maze MCP is a game-changer for TV enthusiasts! With just a simple API call, you can discover shows and episodes without hassle. Highly recommended for developers looking to enhance their media applications.",
+  "awesome_one_liner": "Easily search and explore your favorite TV shows!",
+  "demo_tool": "search_shows",
+  "_meta": {
+    "model": "gpt-4o-mini",
+    "cost_usd": 0.000199
+  },
+  "bot_name": "tv_maze_mcp",
+  "generated_at": "2026-07-09T07:23:28"
+}

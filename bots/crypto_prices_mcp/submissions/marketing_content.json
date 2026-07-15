@@ -1,0 +1,25 @@
+{
+  "display_name": "Crypto Price Insights",
+  "short_description": "Get real-time crypto prices and trends effortlessly!",
+  "long_description": "Unlock the power of real-time cryptocurrency data with our Crypto Price Insights MCP server. Easily fetch current prices for top coins like Bitcoin and Ethereum in multiple currencies such as USD, EUR, and UAH. Stay ahead in the market by accessing trending coins on CoinGecko, perfect for traders and enthusiasts alike. This server is ideal for developers looking to integrate crypto data into their applications without the hassle of authentication. Enjoy a seamless experience and make informed decisions today!",
+  "seo_title": "Real-Time Crypto Prices & Trends",
+  "seo_description": "Access real-time crypto prices and trending coins effortlessly. Perfect for traders and developers!",
+  "tags": [
+    "crypto",
+    "prices",
+    "trending",
+    "coinmarket",
+    "bitcoin",
+    "ethereum",
+    "solana"
+  ],
+  "marketplace_review": "Crypto Price Insights offers an efficient way to access real-time crypto prices. Perfect for both traders and developers, it simplifies cryptocurrency data retrieval with no authentication required.",
+  "awesome_one_liner": "Get real-time crypto prices and trends at your fingertips!",
+  "demo_tool": "list_trending",
+  "_meta": {
+    "model": "gpt-4o-mini",
+    "cost_usd": 0.000207
+  },
+  "bot_name": "crypto_prices_mcp",
+  "generated_at": "2026-07-09T07:23:35"
+}

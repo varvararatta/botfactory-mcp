@@ -1,0 +1,26 @@
+{
+  "display_name": "Real-Time Finance Data",
+  "short_description": "Access live exchange rates and crypto prices effortlessly!",
+  "long_description": "Unlock the power of financial insights with our Finance MCP. Get the latest foreign exchange rates through the Frankfurter API, or dive into cryptocurrency prices with CoinGecko. Perfect for developers and finance enthusiasts who need accurate, real-time data without the hassle of authentication. Whether you're building trading applications or just need quick conversions, our tools are designed for seamless integration. Start exploring today!",
+  "seo_title": "Live Exchange Rates & Crypto Prices",
+  "seo_description": "Get real-time exchange rates and cryptocurrency prices with ease. No authentication needed!",
+  "tags": [
+    "finance",
+    "fintech",
+    "crypto",
+    "exchange rates",
+    "api",
+    "data",
+    "real-time",
+    "currency"
+  ],
+  "marketplace_review": "This MCP server is a game-changer for finance professionals. The ease of access to live data makes it a must-have for anyone needing up-to-date financial information.",
+  "awesome_one_liner": "Instantly access live exchange and crypto prices!",
+  "demo_tool": "get_exchange_rates",
+  "_meta": {
+    "model": "gpt-4o-mini",
+    "cost_usd": 0.000204
+  },
+  "bot_name": "finance_fintech_mcp",
+  "generated_at": "2026-07-09T06:52:02"
+}

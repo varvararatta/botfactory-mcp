@@ -1,0 +1,26 @@
+{
+  "display_name": "Instant Country Insights",
+  "short_description": "Access vital country data at lightning speed!",
+  "long_description": "Unlock comprehensive country information with ease! Discover capitals, currencies, and neighboring nations using our API. Perfect for developers, researchers, and businesses needing reliable geographic data. Whether you're building an app or conducting research, our service provides the essential data you need quickly and affordably. Start your global exploration today with just a simple API call!",
+  "seo_title": "Fast Country Data API Access",
+  "seo_description": "Get quick and accurate country data: capitals, currencies, and more. Affordable API calls for developers and researchers.",
+  "tags": [
+    "country data",
+    "geographic information",
+    "api",
+    "capitals",
+    "currencies",
+    "neighbors",
+    "developers",
+    "research"
+  ],
+  "marketplace_review": "The country_data_mcp server is a game-changer! Fast and reliable, it provides crucial data points in seconds. Perfect for any project requiring country information.",
+  "awesome_one_liner": "Unlock country data effortlessly with country_data_mcp!",
+  "demo_tool": "health_check",
+  "_meta": {
+    "model": "gpt-4o-mini",
+    "cost_usd": 0.000192
+  },
+  "bot_name": "country_data_mcp",
+  "generated_at": "2026-07-09T06:47:31"
+}

@@ -1,0 +1,56 @@
+# MCPize manifest - https://mcpize.com
+version: 1
+name: legal_mcp
+description: Unlock legal insights effortlessly with powerful tools!
+runtime: container
+entry: server.py
+build:
+  dockerfile: Dockerfile
+startCommand:
+  type: http
+long_description: Dive into the world of legal research with our legal_mcp server.
+  Use our 'search_legislation' tool to explore statutes and case summaries directly
+  from Wikipedia. Need to extract citations? Our 'extract_citations' tool does that
+  seamlessly. For quick comprehension, utilize 'summarize_legal_text' to distill complex
+  legal documents into concise summaries. Ideal for law students, professionals, and
+  anyone seeking clarity in legal matters.
+category: legal
+categories:
+- legal
+- research
+- citations
+tags:
+- legal
+- research
+- citations
+- summarization
+- statutes
+- case law
+- wikipedia
+- tools
+tools:
+- name: search_legislation
+  description: 'Search legal topics, statutes and case summaries via Wikipedia. Returns:
+    {results: [{title, snippet, url}]}'
+- name: extract_citations
+  description: 'Extract legal-style citations from text using pattern matching. Returns:
+    {citations: [str], count: int}'
+- name: summarize_legal_text
+  description: 'Summarize legal text by extracting the first N substantive sentences.
+    Returns: {summary, sentence_count, word_count}'
+- name: health_check
+  description: Server health check.
+pricing:
+  protocol: x402
+  network: base
+  recipient: '0x170b522a5e2c75AF546C57c9739Aa3583836D908'
+  asset: usdc
+  tools:
+  - name: search_legislation
+    price: '0'
+  - name: extract_citations
+    price: '0.01'
+  - name: summarize_legal_text
+    price: '0.01'
+  - name: health_check
+    price: '0'

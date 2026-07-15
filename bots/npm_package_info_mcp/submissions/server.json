@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.varvararatta/npm_package_info_mcp",
+  "title": "Npm Package Info Mcp",
+  "description": "Dive into the world of npm with our NPM Package Info MCP. Access crucial metadata about any npm",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/varvararatta/botfactory-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://npm-package-info-mcp.mcpize.run/mcp"
+    }
+  ]
+}

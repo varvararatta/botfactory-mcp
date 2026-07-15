@@ -1,0 +1,45 @@
+# MCPize manifest - https://mcpize.com
+version: 1
+name: real_estate_mcp
+description: Unlock real estate potential with precise location data.
+runtime: container
+entry: server.py
+build:
+  dockerfile: Dockerfile
+startCommand:
+  type: http
+long_description: Dive into the world of real estate with our powerful location intelligence
+  tools. Use OpenStreetMap Nominatim to effortlessly search for property addresses
+  and get accurate geocoding for any location. Gain valuable insights into country
+  market contexts, including population, area, and currency, essential for making
+  informed investment decisions. Ideal for real estate agents, investors, and market
+  analysts looking for reliable data to enhance their property research.
+category: education
+categories:
+- education
+- real estate
+- geocoding
+- location intelligence
+tags:
+- real estate
+- geocoding
+- location intelligence
+- OSM
+- market analysis
+- property research
+- investing
+- data
+pricing:
+  protocol: x402
+  network: base
+  recipient: '0x170b522a5e2c75AF546C57c9739Aa3583836D908'
+  asset: usdc
+  tools:
+  - name: search_locations
+    price: '0'
+  - name: geocode_address
+    price: '0.01'
+  - name: get_market_context
+    price: '0.01'
+  - name: health_check
+    price: '0'

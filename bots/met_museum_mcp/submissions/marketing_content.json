@@ -1,0 +1,25 @@
+{
+  "display_name": "Explore Met Artworks",
+  "short_description": "Dive into the Met's vast collection effortlessly!",
+  "long_description": "Unlock a world of art with the Met Museum MCP! Use the 'search_artworks' API to find stunning pieces from the Metropolitan Museum's open collection and retrieve detailed metadata with 'get_artwork'. Ideal for educators, artists, and art enthusiasts, this API allows you to curate personalized experiences or enhance educational content. Whether you're creating a digital gallery or conducting research, the Met's treasures are just a query away.",
+  "seo_title": "Metropolitan Museum Open Collection API",
+  "seo_description": "Access the Metropolitan Museum's open collection with zero auth. Search and retrieve artwork metadata effortlessly.",
+  "tags": [
+    "art",
+    "museum",
+    "metropolitan",
+    "collection",
+    "api",
+    "metadata",
+    "open_access"
+  ],
+  "marketplace_review": "The Met Museum MCP server is a fantastic resource for art lovers and researchers alike. Its ease of use and extensive collection make it a must-try for anyone interested in exploring art history.",
+  "awesome_one_liner": "Access the Met's art collection with zero hassle!",
+  "demo_tool": "search_artworks",
+  "_meta": {
+    "model": "gpt-4o-mini",
+    "cost_usd": 0.000199
+  },
+  "bot_name": "met_museum_mcp",
+  "generated_at": "2026-07-09T07:23:04"
+}

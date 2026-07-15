@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.varvararatta/crypto_prices_mcp",
+  "title": "Crypto Prices Mcp",
+  "description": "Unlock the power of real-time cryptocurrency data with our Crypto Price Insights MCP server.",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/varvararatta/botfactory-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://crypto-prices-mcp.mcpize.run/mcp"
+    }
+  ]
+}

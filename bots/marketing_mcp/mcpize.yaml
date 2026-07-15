@@ -1,0 +1,53 @@
+# MCPize manifest - https://mcpize.com
+version: 1
+name: marketing_mcp
+description: Unlock powerful SEO insights with advanced keyword analysis.
+runtime: container
+entry: server.py
+build:
+  dockerfile: Dockerfile
+startCommand:
+  type: http
+long_description: Elevate your marketing strategy with our Marketing MCP server. Analyze
+  SEO keywords, extract meta tags, and assess word frequencies to refine your content.
+  Ideal for marketers, content creators, and SEO specialists looking to optimize their
+  online presence. Use our tools to identify high-impact keywords and enhance your
+  site's visibility effortlessly.
+category: marketing
+categories:
+- marketing
+- seo
+- keywords
+- meta tags
+tags:
+- seo
+- keywords
+- meta tags
+- marketing
+- analysis
+tools:
+- name: analyze_seo_keywords
+  description: 'Extract top SEO keywords from marketing copy using term frequency.
+    Returns: {keywords: [{word, score}], total_words}'
+- name: extract_meta_tags
+  description: 'Fetch a page and extract HTML meta tags (title, description, og:*).
+    Returns: {title, description, og_title, og_description, meta: {name: content}}'
+- name: word_frequency
+  description: 'Count word frequencies in text for content/marketing analysis. Returns:
+    {words: [{word, count, pct}], total}'
+- name: health_check
+  description: Server health check.
+pricing:
+  protocol: x402
+  network: base
+  recipient: '0x170b522a5e2c75AF546C57c9739Aa3583836D908'
+  asset: usdc
+  tools:
+  - name: analyze_seo_keywords
+    price: '0.01'
+  - name: extract_meta_tags
+    price: '0.01'
+  - name: word_frequency
+    price: '0.01'
+  - name: health_check
+    price: '0'
