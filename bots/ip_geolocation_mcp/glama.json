@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "Unlock the power of IP geolocation with our tool! Whether you're a developer needing location data for user analytics or a cybersecurity expert tracking suspicious activity, our service delivers precise information. You can geolocate individual IPs or process batches of up to five addresses in one go. Ideal for businesses, marketers, and security professionals looking to enhance their services with location insights."
+  "description": "Unlock the power of IP geolocation with our seamless API, perfect for developers, marketers, and cybersecurity professionals. Use the 'lookup_ip' tool to geolocate any IPv4 or IPv6 address, returning precise data like country, city, ISP, and coordinates. For bulk needs, the 'lookup_batch' tool allows you to geolocate up to five IP addresses at once, streamlining your data analysis. Whether you're enhancing user experiences or bolstering security measures, our service is quick, efficient, and easy to integrate."
 }
