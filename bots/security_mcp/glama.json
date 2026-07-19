@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "With security_mcp, developers can easily identify vulnerabilities in their applications using the OSV.dev database. Whether you're working with npm, PyPI, or Go, our open-source vulnerability lookup tool streamlines the security assessment process. Perfect for security analysts and developers alike, this service empowers teams to maintain robust security hygiene without breaking the bank. Plus, start with a free health check to ensure everything's running smoothly."
+  "description": "With our security_mcp, you can easily identify vulnerabilities in your code by leveraging the OSV.dev database. For just $0.01 per call, developers can ensure their applications are secure and compliant, making it an essential tool for DevOps teams and security analysts alike. Whether you\u2019re using npm, PyPI, or Go, our service provides instant insights into potential risks. Start with a free health check to ensure your code's baseline security is intact!"
 }
