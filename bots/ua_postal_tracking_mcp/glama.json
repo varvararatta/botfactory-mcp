@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "Stay updated on your shipments with our Ukrainian postal tracking tool for Nova Poshta. Use the track_shipment API to get live status updates, including delivery dates and locations. Perfect for businesses and individuals alike, this service helps you manage your shipments effectively. Whether you're a seller needing to inform customers or a buyer tracking your order, our API delivers precise information at a minimal cost. Experience seamless tracking with zero authentication required."
+  "description": "Stay updated on your Nova Poshta shipments effortlessly. With our API, you can track your packages using their tracking number (TTN) and receive instant updates on status, delivery dates, and more. Ideal for e-commerce businesses, logistics managers, and anyone relying on accurate shipping information. Enjoy a seamless experience tracking your deliveries, ensuring you never miss a beat in your shipping process."
 }
