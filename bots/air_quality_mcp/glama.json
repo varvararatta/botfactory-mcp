@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "Discover the air quality around you with our easy-to-use APIs. Whether you're planning outdoor activities or just want to know the air quality in your city, our service provides accurate metrics like European AQI and PM2.5/PM10 levels. Use the geocoding feature to search for air quality by city name, making it perfect for travelers and health-conscious individuals. Ideal for environmental researchers, city planners, and anyone interested in maintaining a healthy lifestyle."
+  "description": "Monitor air quality in your area or any city worldwide with our powerful API. Use the 'get_air_quality' tool for precise metrics like PM2.5 and PM10, ensuring you're always one step ahead of pollution. Ideal for environmentalists, city planners, and health-conscious individuals. Easily integrate this data into your applications without the hassle of authentication. Make informed decisions for your health and community with accurate, real-time air quality insights."
 }
