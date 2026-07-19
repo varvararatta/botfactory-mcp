@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "Dive into a suite of pure Python tools designed for precise mathematical computations and insightful statistics. From calculating IRR and NPV for financial projects to converting units seamlessly, this MCP server caters to your analytical needs. Whether you're a data analyst, financial expert, or student, you\u2019ll find reliable results for your calculations without any authentication barriers. Access live currency exchange rates directly from the National Bank of Ukraine to stay updated!"
+  "description": "Harness the power of advanced mathematical and statistical computations with our Data Compute & Stats MCP server. From calculating descriptive statistics to analyzing cashflows with IRR and NPV, this tool is perfect for finance professionals, data analysts, and anyone needing quick, reliable calculations. Convert units seamlessly and get real-time exchange rates without authentication. Ideal for developers and analysts looking for deterministic results in a user-friendly package."
 }
