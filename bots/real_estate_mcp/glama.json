@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "Dive into the world of real estate with our powerful location intelligence tools. Use OpenStreetMap Nominatim to effortlessly search for property addresses and get accurate geocoding for any location. Gain valuable insights into country market contexts, including population, area, and currency, essential for making informed investment decisions. Ideal for real estate agents, investors, and market analysts looking for reliable data to enhance their property research."
+  "description": "Dive into the world of real estate analytics with our precise location intelligence tools. Use the 'search_locations' API to explore potential properties or neighborhoods, and convert addresses into coordinates with the 'geocode_address' API. Gain valuable market insights for any country using 'get_market_context', perfect for investors and agents looking to understand local dynamics. With zero authentication required, it's never been easier to elevate your real estate research."
 }
