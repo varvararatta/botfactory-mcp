@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "Unlock the power of clean, structured text with our HTML to Markdown transformation tools. Whether you need to convert web content to Markdown for documentation, strip tags for plain text usage, or extract tables for data analysis, this server has you covered. Ideal for developers, content creators, and analysts who demand precision without the hassle of complex APIs. Enjoy seamless, fast transformations with zero authentication required!"
+  "description": "Unlock the potential of your HTML with our powerful transformation tools. Convert complex HTML to clean Markdown, perfect for content creators and developers alike. Need plain text? Our tool strips away all the HTML tags for crystal-clear readability. Extract tables from your HTML for structured data analysis, all in pure Python without any authentication hassles. Whether you\u2019re managing documentation, cleaning up web content, or preparing data for reports, our service is your go-to solution."
 }
