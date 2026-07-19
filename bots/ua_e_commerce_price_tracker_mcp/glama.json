@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "Discover the best prices in Ukrainian e-commerce with our powerful price tracker. Use the 'search_rozetka' and 'search_olx' APIs to find products and listings instantly. Compare prices across platforms with 'compare_prices' to ensure you get the best deal. Perfect for savvy shoppers, resellers, and market analysts looking to stay ahead of the competition."
+  "description": "Stay ahead in the Ukrainian e-commerce market with our price tracker! Use the search_rozetka API to find the best deals on Rozetka.ua, Ukraine's largest e-commerce platform. Want to explore OLX listings? The search_olx API provides you with current offers directly. With the compare_prices tool, you can easily see price differences for any product across both platforms. Perfect for savvy shoppers and businesses looking to optimize purchasing power!"
 }
