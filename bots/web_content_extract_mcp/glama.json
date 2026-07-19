@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "Unlock the power of web content extraction with our Web Content Extractor. Perfect for content creators, researchers, and marketers, this tool fetches clean text, metadata, and links from any public URL. Use the fetch_url_content API for extracting main text, or dive deeper with the extract_article feature for news and blog content. With a simple, pay-per-use model, you'll have access to valuable insights from the web, all while saving time and enhancing your projects."
+  "description": "Transform how you gather web information with our Web Content Extractor. Easily fetch clean text, metadata, and links from any public URL. Whether you're a researcher needing quick data points, a journalist seeking article extraction, or a marketer analyzing competitors, this tool is designed for you. With seamless APIs for extracting article content and page metadata, you can streamline your web scraping process and make data-driven decisions faster than ever."
 }
