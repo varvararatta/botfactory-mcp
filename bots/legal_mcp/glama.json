@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "Dive into the world of legal research with our legal_mcp server. Use our 'search_legislation' tool to explore statutes and case summaries directly from Wikipedia. Need to extract citations? Our 'extract_citations' tool does that seamlessly. For quick comprehension, utilize 'summarize_legal_text' to distill complex legal documents into concise summaries. Ideal for law students, professionals, and anyone seeking clarity in legal matters."
+  "description": "Dive into the world of legal research effortlessly with our suite of powerful tools. Search legislation and case summaries on Wikipedia, extract citations from any text, and get concise summaries of complex legal documents. Perfect for lawyers, students, and anyone needing quick and reliable legal information. With zero authentication required, you can start exploring legal topics immediately!"
 }
