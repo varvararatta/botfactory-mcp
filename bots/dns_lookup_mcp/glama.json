@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "Experience fast and reliable DNS resolutions with our DNS Lookup service using Google DNS-over-HTTPS. Perfect for developers, network administrators, and anyone needing to verify DNS records quickly. With support for various record types like A, AAAA, MX, TXT, CNAME, and NS, you can easily check domain configurations. Plus, you can monitor server health with our free health check tool. Simplify your DNS management today!"
+  "description": "With dns_lookup_mcp, you can easily resolve various DNS records like A, AAAA, MX, and more using Google's secure DNS-over-HTTPS. Ideal for developers, network engineers, and IT professionals, this tool provides instant access to DNS information without the need for cumbersome authentication. Whether you need to troubleshoot network issues or verify domain configurations, dns_lookup_mcp streamlines the process with simple API calls. Enjoy the convenience of fast, reliable DNS lookups at just $0.01 per call."
 }
