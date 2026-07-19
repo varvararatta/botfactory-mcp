@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "Unlock real-time insights into Ukraine's economy and public services with our comprehensive data APIs. Get official NBU exchange rates, explore public procurement tenders on Prozorro, and geocode Ukrainian addresses effortlessly. Whether you're a business analyst, researcher, or developer, this server equips you with essential tools to make informed decisions and enhance your projects. Dive into the rich landscape of Ukrainian public data today!"
+  "description": "Unlock vital Ukrainian public data effortlessly with zero authentication. Get the latest exchange rates from the NBU, explore procurement tenders on Prozorro, and geocode addresses with OpenStreetMap. Ideal for developers, researchers, and businesses needing real-time data for analysis or decision-making. With straightforward APIs and immediate access, you can stay informed and agile in your operations."
 }
