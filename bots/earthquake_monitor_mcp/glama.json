@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "Monitor the world's seismic activity effortlessly with our Earthquake Monitor MCP. Access the latest earthquake data, filter by magnitude, and stay informed about significant quakes over the past week or month. Ideal for researchers, safety officials, or anyone interested in natural phenomena, our API offers seamless integration with your applications. With a free health check tool, ensure your connection is always up to date while you receive crucial alerts."
+  "description": "Monitor seismic activity in real-time with our Earthquake Monitor. Use the 'list_recent_quakes' tool to track earthquakes by the hour, day, or week, and filter by magnitude for precise insights. The 'significant_quakes' tool highlights major seismic events over the past month for in-depth analysis. Ideal for researchers, disaster response teams, and anyone interested in geological activity, this server provides essential data without the hassle of authentication."
 }
