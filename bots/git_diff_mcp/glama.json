@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "Transform your development workflow with our Git Diff Analyzer. Quickly analyze git diffs and GitHub PRs with a simple API call, no authentication required. Ideal for developers, project managers, and code reviewers looking to assess risk levels, identify changes, and review code efficiently. Whether you're assessing a pull request or tracking code changes, our tool provides the statistics and insights you need to make informed decisions. Start leveraging the power of git diffs today!"
+  "description": "Transform your git workflow with our Git Diff Analyzer. Instantly analyze git diffs and GitHub PRs through a public API without any authentication hassle. Perfect for developers and teams who need to assess code changes, track modifications, and evaluate risk levels. With detailed stats and insights on changed files, improve your code review process and enhance collaboration. Streamline your development efforts and make informed decisions with just a simple API call."
 }
