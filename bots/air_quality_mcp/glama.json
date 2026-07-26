@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "Monitor air quality in your area or any city worldwide with our powerful API. Use the 'get_air_quality' tool for precise metrics like PM2.5 and PM10, ensuring you're always one step ahead of pollution. Ideal for environmentalists, city planners, and health-conscious individuals. Easily integrate this data into your applications without the hassle of authentication. Make informed decisions for your health and community with accurate, real-time air quality insights."
+  "description": "Get immediate access to real-time air quality metrics with the air_quality_mcp server. Use our 'get_air_quality' API to retrieve detailed PM2.5 and PM10 levels for your precise location or any city worldwide. Ideal for health-conscious individuals, environmental researchers, and urban planners, this tool empowers you to make informed decisions about outdoor activities. Plus, our 'search_city_air' function allows for easy city-specific air quality checks, ensuring you\u2019re always aware of your surroundings."
 }
