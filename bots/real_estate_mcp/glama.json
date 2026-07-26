@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "Dive into the world of real estate analytics with our precise location intelligence tools. Use the 'search_locations' API to explore potential properties or neighborhoods, and convert addresses into coordinates with the 'geocode_address' API. Gain valuable market insights for any country using 'get_market_context', perfect for investors and agents looking to understand local dynamics. With zero authentication required, it's never been easier to elevate your real estate research."
+  "description": "Tap into the power of real estate location intelligence with our APIs. Easily search for properties, geocode addresses, and gain crucial market context. Whether you're an investor seeking new opportunities or a realtor needing accurate data, our tools provide valuable insights for informed decision-making. Access detailed information on populations, areas, and currencies for any country, all without authentication."
 }
