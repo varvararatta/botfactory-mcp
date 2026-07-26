@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "With dns_lookup_mcp, you can easily resolve various DNS records like A, AAAA, MX, and more using Google's secure DNS-over-HTTPS. Ideal for developers, network engineers, and IT professionals, this tool provides instant access to DNS information without the need for cumbersome authentication. Whether you need to troubleshoot network issues or verify domain configurations, dns_lookup_mcp streamlines the process with simple API calls. Enjoy the convenience of fast, reliable DNS lookups at just $0.01 per call."
+  "description": "Experience lightning-fast DNS lookups with our DNS Lookup service using Google DNS-over-HTTPS. Perfect for developers, network engineers, and anyone needing quick access to DNS records without the fuss of authentication. Retrieve various DNS record types like A, AAAA, MX, and more with ease. Whether you're troubleshooting or verifying domain configurations, our tool ensures reliable results every time."
 }
