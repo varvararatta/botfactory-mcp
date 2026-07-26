@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "Harness the power of advanced mathematical and statistical computations with our Data Compute & Stats MCP server. From calculating descriptive statistics to analyzing cashflows with IRR and NPV, this tool is perfect for finance professionals, data analysts, and anyone needing quick, reliable calculations. Convert units seamlessly and get real-time exchange rates without authentication. Ideal for developers and analysts looking for deterministic results in a user-friendly package."
+  "description": "Experience the power of data with our computations server, designed for analysts, developers, and data enthusiasts. Perform statistics, calculate IRR and NPV, convert units, and fetch real-time exchange rates seamlessly. With pure Python and deterministic results, you can trust every calculation. Ideal for businesses needing quick insights or students working on projects, our tools are intuitive and reliable."
 }
