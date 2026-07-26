@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "Monitor seismic activity in real-time with our Earthquake Monitor. Use the 'list_recent_quakes' tool to track earthquakes by the hour, day, or week, and filter by magnitude for precise insights. The 'significant_quakes' tool highlights major seismic events over the past month for in-depth analysis. Ideal for researchers, disaster response teams, and anyone interested in geological activity, this server provides essential data without the hassle of authentication."
+  "description": "Our Earthquake Monitor MCP provides instant access to the latest seismic activity. Use the 'list_recent_quakes' tool to track earthquakes by the hour, day, or week, and filter by magnitude for custom alerts. For those focused on significant events, the 'significant_quakes' option delivers key data on major quakes within specified periods. Ideal for researchers, safety professionals, and anyone living in earthquake-prone areas, this tool keeps you informed and prepared."
 }
