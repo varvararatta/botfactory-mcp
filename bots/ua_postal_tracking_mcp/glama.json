@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "Stay updated on your Nova Poshta shipments effortlessly. With our API, you can track your packages using their tracking number (TTN) and receive instant updates on status, delivery dates, and more. Ideal for e-commerce businesses, logistics managers, and anyone relying on accurate shipping information. Enjoy a seamless experience tracking your deliveries, ensuring you never miss a beat in your shipping process."
+  "description": "Stay updated on your shipments with our Nova Poshta tracking API. Easily track your packages using the unique tracking number (TTN) and receive instant updates on their status, weight, delivery city, and expected delivery date. This tool is perfect for e-commerce businesses, online retailers, and anyone relying on timely deliveries in Ukraine. Simplify your logistics and enhance customer satisfaction with accurate shipment tracking."
 }
