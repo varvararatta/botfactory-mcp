@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "Unlock global communication with our translation services! Effortlessly translate texts or batches into over 100 languages using MyMemory. Ideal for businesses, travelers, and developers needing swift translations. With APIs available for single and bulk translations, our service is designed to meet diverse language needs. Start translating today and connect with the world like never before."
+  "description": "Unlock global communication with our powerful translation services. Whether you're a business looking to expand internationally or an individual needing help with travel, our API provides seamless translations in over 100 languages. Use the 'translate' tool for quick text conversions or 'batch_translate' to handle multiple phrases at once. With no authentication required, you can start translating instantly and effortlessly, making it perfect for developers and content creators alike."
 }
