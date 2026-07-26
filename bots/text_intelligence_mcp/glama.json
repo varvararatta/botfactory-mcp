@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "Transform your text data with our Python-based NLP tools! Detect languages, analyze sentiment, extract keywords, and summarize texts effortlessly. Perfect for developers, content creators, and data analysts looking to enhance their projects without the complexity of external APIs. Experience seamless integration and real-time analytics that empower your decision-making."
+  "description": "Unlock the potential of natural language processing with Text Intelligence. Effortlessly detect languages, analyze sentiment, extract keywords, and summarize text\u2014all with pure Python and zero external APIs. Ideal for businesses looking to enhance customer feedback analysis, content creation, or language detection. Whether you're a developer, marketer, or researcher, this server provides seamless access to essential text analytics tools."
 }
