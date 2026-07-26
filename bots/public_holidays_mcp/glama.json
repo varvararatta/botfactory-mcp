@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "Unlock seamless access to public holiday information for more than 100 countries with our easy-to-use API. Whether you're planning marketing campaigns, scheduling appointments, or developing travel applications, this tool provides essential data at your fingertips. Perfect for businesses, developers, and researchers alike, our API requires no authentication, making it user-friendly and efficient. Stay informed and enhance your projects with accurate holiday insights worldwide."
+  "description": "Unlock a wealth of public holiday data from more than 100 countries with the public_holidays_mcp server. Perfect for developers, travel planners, and businesses, this tool offers seamless integration via the nager.at API, without any authentication hassle. Use it to enhance your applications, plan marketing campaigns, or simply stay informed about global holidays. With fast and reliable data access, you can keep your projects up-to-date and culturally aware."
 }
