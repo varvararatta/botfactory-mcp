@@ -3,5 +3,5 @@
   "maintainers": [
     "varvararatta"
   ],
-  "description": "Unlock the power of IP geolocation with our reliable service. Whether you're analyzing user demographics, enhancing security, or optimizing content delivery, our easy-to-use APIs return detailed information about any IPv4 or IPv6 address. With options for batch lookups, you can geolocate multiple addresses simultaneously. Ideal for businesses, developers, and marketers looking to gain insights into their audience's location and internet service providers."
+  "description": "Unlock the power of precise IP geolocation with our advanced tool. With features like lookup_ip and lookup_batch, you can geolocate any IPv4 or IPv6 address, revealing essential data such as country, city, ISP, and coordinates. Ideal for businesses analyzing user demographics, cybersecurity professionals tracking threats, or developers integrating geolocation into their applications. Experience seamless functionality with zero authentication required and start enhancing your projects today!"
 }
